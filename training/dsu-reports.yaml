@@ -38,5 +38,8 @@ content:
       - I reviewed why the automated-marketing tool wasn't posting Tweets. It had
         permission issues, so I configured it so that it will post on the Tome.gg
         Twitter account. I was able to verify that it works.
+      - I also explored building a dynamically-generated daily progress banner for
+        people learning in public. This automatically lifts data from your Tome.gg
+        DSU repository, similar to this one.
     blockers: |
       - None
