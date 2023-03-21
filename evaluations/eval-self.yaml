@@ -1,0 +1,46 @@
+# The following definition enables the Tome.gg librarian to recognize this YAML format
+# as conforming to the 0.1.0 version of the training definition.
+tomegg:
+  type: evaluations
+  version: 0.1.0
+  definition: https://protocol.tome.gg/evaluations/0.1.0
+
+# Meta information about this report
+meta:
+  evaluator:
+    name: Darren
+    socials:
+      email: darren@tome.gg
+      eth: sapalo.eth
+  dimensions:
+    - alias: focus
+      name: focus
+      version: 0.1.0
+      definition: https://protocol.tome.gg/dimensions/focus/0.1.0
+
+# 
+# Evaluation guidelines
+#   1 - INTRODCUTION - Completely unfamiliar with the concept; still introductory phase
+#   2 - FAMILIAR - Already familiar and have read up on the concept; not yet experimented 
+#          with/allocated time for
+#          Prioritization: understanding things.
+#   3 - TRAINING - Allocated time for practicing the concept. Consciously reminding
+#          oneself about it. Seeking external validation to understand the skill.
+#          Prioritization: make things work.
+#   4 - POLISHING - Acquired the skill to evaluate oneself. Literacy is covered, and
+#          now focusing on precision.
+#          Prioritization: make things correct.
+#   5 - MASTERY - Correctness is guaranteed. Precision and consistency is reliable.
+#          Able to precisely recognize one's limitations. Self-awareness is sufficient.
+#          Prioritization: make things usable, pretty i.e. creation.
+
+evaluations:
+  - id: edcb1cb6-b4a5-50f6-a24f-37a8b4b3ecfe
+    measurements:
+      - dimension: focus
+        score: 2
+        remarks: >
+          At this point I knew that I am supposed to be practicing focus, but I
+          had urges to tinker with OpenAI and ChatGPT because everyone's working 
+          with it. Out of some fears, I was worried that if I don't tinker with it,
+          I'll get left behind. I recognize this is a fear-based approach though.

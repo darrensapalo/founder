@@ -1,0 +1,35 @@
+# version - defines the tome.gg protocol version, which dictates
+# how tome.gg will parse the directory as a data source.
+version: 1 
+
+# type - defines the protocol type, which dictates
+# how tome.gg will parse the directory as a data source. 'git' means
+# the parser will assume that this is a version-controlled directory.
+type: git
+
+# assets - defines the folders where image assets can be found.
+assets:
+ - assets/
+
+# contents - defines where the tome.gg  content can be found. This is
+# categorized by type of content.
+content:
+  # training - Your individual reports per period (e.g. daily stand up reports)
+  training: training/
+  # evaluations - All of your evaluations are recorded here, segregated by file (
+  # each file represents an evaluator).
+  evaluations: evaluations/
+  # scenarios - Not yet implemented
+  scenarios: scenarios/
+  # mental models - Not yet implemented
+  mental_models: mental-models/
+# apps - defines what tome.gg verified applications work for this data source.
+apps:
+  # flash cards - See https://en.wikipedia.org/wiki/Anki_(software)
+  flash_cards: flash-cards/ 
+  # examinations - Multiple choice based tool
+  examinations: examinations/
+# ontology - defines where the ontology for the domain of this content can be found.
+ontology:
+  # url - the URL where the ontology can be accessed.
+  url: https://ontology.sapalo.dev/founder

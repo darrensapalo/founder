@@ -1,0 +1,42 @@
+# The following definition enables the Tome.gg librarian to recognize this YAML format
+# as conforming to the 0.1.0 version of the training definition.
+tomegg:
+  type: training
+  version: 0.1.0
+  definition: https://protocol.tome.gg/training/0.1.0
+
+# Meta information about this report
+meta:
+  format:
+    type: dsu
+    version: 0.1.0
+    definition: https://protocol.tome.gg/formats/dsu/0.1.0
+  # Applies the following tags to all of the content, instead of having to write them
+  # down each time.
+  tags:
+    - daily_stand_up
+
+content:
+  - id: edcb1cb6-b4a5-50f6-a24f-37a8b4b3ecfe
+    datetime: 2023-03-21
+    remarks: |
+      I ought to be more careful about how I spend my time. I'm worried that I 
+      might end up trying to do too many broad things that don't create value for
+      Tome.gg.
+    done_yesterday: |
+      - I started with working on the Librarian protocol, such that I am now able
+        to parse the YAML files.
+      - I started work on the Librarian protocol's validation rules for the DSU
+        validations.
+      - I started on my automated-marketing tool. It leverages
+        GitHub webhooks triggered by commits, n8n for automation, OpenAI for Tweet
+        generation, and social integrations (Twitter, Discord) for distribution.
+    doing_today: |
+      - I resumed my work on the validators, finished the DSU validator, and 
+        started with the evaluator validator. This one will be responsible for
+        validating the evaluations of a mentor/teacher/evaluator.
+      - I reviewed why the automated-marketing tool wasn't posting Tweets. It had
+        permission issues, so I configured it so that it will post on the Tome.gg
+        Twitter account. I was able to verify that it works.
+    blockers: |
+      - None
