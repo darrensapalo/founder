@@ -41,5 +41,8 @@ content:
         people learning in public. This automatically lifts data from your Tome.gg
         DSU repository, similar to this one.
       - I also built out a fish tool to easily add entries to the DSU.
+      - I also built made pre-built binaries for the `tome` CLI, and an intake 
+        page for alpha testers for Tome.gg, so that it will be easy to invite
+        developers to try out the tooling.
     blockers: |-
       - None
