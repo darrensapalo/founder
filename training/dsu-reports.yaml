@@ -1,10 +1,10 @@
+---
 # The following definition enables the Tome.gg librarian to recognize this YAML format
 # as conforming to the 0.1.0 version of the training definition.
 tomegg:
   type: training
   version: 0.1.0
   definition: https://protocol.tome.gg/training/0.1.0
-
 # Meta information about this report
 meta:
   format:
@@ -13,9 +13,7 @@ meta:
     definition: https://protocol.tome.gg/formats/dsu/0.1.0
   # Applies the following tags to all of the content, instead of having to write them
   # down each time.
-  tags:
-    - daily_stand_up
-
+  tags: [daily_stand_up]
 content:
   - id: edcb1cb6-b4a5-50f6-a24f-37a8b4b3ecfe
     datetime: 2023-03-21
@@ -31,6 +29,7 @@ content:
       - I started on my automated-marketing tool. It leverages
         GitHub webhooks triggered by commits, n8n for automation, OpenAI for Tweet
         generation, and social integrations (Twitter, Discord) for distribution.
+      - I also 
     doing_today: |
       - I resumed my work on the validators, finished the DSU validator, and 
         started with the evaluator validator. This one will be responsible for
@@ -41,5 +40,6 @@ content:
       - I also explored building a dynamically-generated daily progress banner for
         people learning in public. This automatically lifts data from your Tome.gg
         DSU repository, similar to this one.
-    blockers: |
+      - I also built out a fish tool to easily add entries to the DSU.
+    blockers: |-
       - None
