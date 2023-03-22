@@ -46,3 +46,20 @@ content:
         developers to try out the tooling.
     blockers: |-
       - None
+  - id: 96326848-db30-53ed-8453-c08bb8eb172c
+    datetime: 2023-03-22
+    done_yesterday: |
+      - I finished creating the librarian protocol, the librarian CLI, and a sample repository (this one). 
+      - I also finished creating an in-take form for interested apprentices who wish to learn in public.
+    doing_today: |
+      - I'm going to be taking it easy today and focus on reading items. 
+      - It will be a study day rather than a build day. 
+      - I'll review my Click Up board for reading material, organize which content should be prioritized. 
+      - Today I will focus on resisting the urge to keep building, and stepping back to see the bigger picture. 
+      - I will have a more organized click up board and a clear picture of which tasks have more weight in 
+        bringing value to Tome.gg and its beneficiaries.
+    blockers: |-
+      - I'll be busy driving today, so work will be intermittent. 
+      - As I will be out, I worry about my internet connectivity. If internet fails, I'll focus on reading 
+        some books that I have on my kindle. I should also set up reading materials (from ClickUp) into my 
+        kindle in case this connectivity issue happens again.
