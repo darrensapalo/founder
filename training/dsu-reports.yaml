@@ -15,6 +15,52 @@ meta:
   # down each time.
   tags: [daily_stand_up]
 content:
+  - id: a1ddf368-f7e2-5cdb-9d19-4114a780e9e9
+    datetime: 2023-03-20
+    remarks: |
+      The following notes were copied from my Bear note app (offline note taking)
+      which I spoke about/planned while I was driving. This is why the date of 
+      entry into the repository (March 22) doesn't match the datetime submitted.
+    done_yeseterday: |
+      - no information
+    doing_today: |
+      - we can skip all over the alignment negotiation protocol first and focus on
+        the protocol design for storing the data for your daily standup report and
+        your growth data.
+      - Let's try to look at it from an evaluation first perspective. Evaluation 
+        can be done at a per instance style, where in each day is evaluated each 
+        day. The other option is evaluating a series of the data as a whole set 
+        for example, evaluating five days altogether that flexibility should allow 
+        us to analyze the data individually or in a aggregate. This makes it 
+        flexible for people who don't want to analyze each data point. 
+      - From a mentor's perspective this is convenient because that might be less 
+        work for me and we're going to be able to look at or evaluate the different
+        dimensions. For example- focus, consistency, clarity … across multiple data
+        points so at least the student has some opportunity to practice the skill
+        consistently over a period of time. Each evaluation can then demonstrate 
+        whether they have been consistently able to perform based on those 
+        aggregate evaluation. 
+      - Now, let's analyze it from a solo player perspective when I don't have a
+        mentor of my own- how do I keep myself accountable to myself into my 
+        objectives? This means that I need to mentor myself, in which case I 
+        specify very clearly my objectives and my goals, specify specific objectives,
+        actionable things that can be measured and tracked and see whether or not 
+        they do that.
+      - From a solo player perspective… what is important to me for evaluation of 
+        my growth at the end of my evaluation? I want to be able to see whether or
+        not I have actually been practicing the skills (consistency, focus, clarity)
+        and see whether I am progressing from my Likert scale of 1 to 5. 
+      - This is going to demonstrate self evaluation, and I can double check with
+        my mentors in DLSU, whether or not the efforts that I am doing does indeed
+        contribute to what I am trying to accomplish. It is going to be attractive
+        for mentors because they're going to be able to see an individual really 
+        practicing consistency.
+      - We're not going to be creating a view for the mentor specifically. For now
+        we're just going to be leveraging markdown and Github. That's where they 
+        can view my growth in my development.
+      - A common pitfall is trying to aim for usability and correctness of the start.
+        No, we are going to be focusing first on making things work, so we'll start 
+        with some simple protocol definition and give it a version.
   - id: edcb1cb6-b4a5-50f6-a24f-37a8b4b3ecfe
     datetime: 2023-03-21
     remarks: |
