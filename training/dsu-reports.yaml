@@ -15,8 +15,28 @@ meta:
   # down each time.
   tags: [daily_stand_up]
 content:
+  - id: 31948a73-38bc-5a8d-9ba2-febf4bcb81d9
+    datetime: 2023-03-15
+    tags: 
+      - late_entry
+    remarks: |
+      These were planning information that I came up with, in preparation for 
+      the Solana Grizzlython 2023 Hackathon. They were written in my bear notes 
+      app before they were transferred into the repository.
+    doing_today: |
+      - I studied more about the revenue streams and business planning for Tome.gg
+        and identified its key novelty concept. These were included into the Solana
+        Grizzlython 2023 hackathon pitch deck presentation.
+    doing_yesterday: |
+      - I focused on building a prototype of the Tome.gg Alignment Negotiation 
+        smart contract. It's a very basic model for negotiation.
+      - Question: is there a way to verify that a single file in Git is only written
+        or modified by a single contributor? If so, then that is a good way to 
+        verify that the evaluations are not modified in any way.
   - id: a1ddf368-f7e2-5cdb-9d19-4114a780e9e9
     datetime: 2023-03-20
+    tags: 
+      - late_entry
     remarks: |
       The following notes were copied from my Bear note app (offline note taking)
       which I spoke about/planned while I was driving. This is why the date of 
