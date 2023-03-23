@@ -27,7 +27,7 @@ content:
       - I studied more about the revenue streams and business planning for Tome.gg
         and identified its key novelty concept. These were included into the Solana
         Grizzlython 2023 hackathon pitch deck presentation.
-    doing_yesterday: |
+    done_yesterday: |
       - I focused on building a prototype of the Tome.gg Alignment Negotiation 
         smart contract. It's a very basic model for negotiation.
       - Question: is there a way to verify that a single file in Git is only written
@@ -41,7 +41,7 @@ content:
       The following notes were copied from my Bear note app (offline note taking)
       which I spoke about/planned while I was driving. This is why the date of 
       entry into the repository (March 22) doesn't match the datetime submitted.
-    done_yeseterday: |
+    done_yesterday: |
       - no information
     doing_today: |
       - we can skip all over the alignment negotiation protocol first and focus on
@@ -140,3 +140,23 @@ content:
       - Of course this can be forged (by changing local time on your host machine)
         but it has somewhat an interesting offline/async property in your daily
         reporting.
+  - id: 1d0e2b93-0c4b-5432-8010-11eeae2bc784
+    datetime: 2023-03-23
+    tags:
+      - light_work_day
+    done_yesterday: |
+      - I was able to read a few things about Tome.gg when I arrived back at home.
+      - I did get to practice resisting my urges to dream of and to build little 
+        small projects around Tome.gg. 
+      - During my drive, I was able to think about Tome.gg more in marketing terms,
+        and kept my notes in my Bear app.
+      - I did not get to organize my ClickUp board because our internet has been 
+        intermittent.
+      - I did study more about what kinds of partners I can work with (university
+        orgs and such).
+    doing_today: |
+      - We're going to read some books (The Status Game, some articles), and write
+        down notes on Bear app re: how some principles can be applied to Tome.gg.
+      - We're going to also open up the Whitepaper so we can resume writing on it.
+    blockers: |
+      - Internet is still intermittent.
