@@ -158,5 +158,8 @@ content:
       - We're going to read some books (The Status Game, some articles), and write
         down notes on Bear app re: how some principles can be applied to Tome.gg.
       - We're going to also open up the Whitepaper so we can resume writing on it.
+      - I studied a SaaS survey report that provides some data on sales, marketing, 
+        on subscription-based systems. Collected a set of questions that I'll ask
+        with a marketing friend of mine.
     blockers: |
       - Internet is still intermittent.
