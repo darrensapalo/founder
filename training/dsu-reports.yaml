@@ -170,3 +170,44 @@ content:
          running that I can explore or connect with.
     blockers: |
       - Internet is still intermittent.
+  - id: 891842c7-aa8b-5e11-a83e-ec56a5351e80
+    datetime: 2023-03-24
+    tags:
+      - light_work_day
+    done_yesterday: |
+      - I finished reading quite a lot of books.
+    doing_today: |
+      - I explored more of my laptop's book collection to read more things 
+        surrounding growth, learning, and apprenticeships.
+      - I applied to PushFar.com, which is a free mentorship/apprenticeship 
+        site.
+      - I applied to be a mentor to two Filipinos adjacent to software engineering.
+      - My goal is to mentor possibly 4 apprentices concurrently, and do my
+        research with them.
+    blockers: |
+      - Internet has still been intermittent. The good thing is I have a lot of
+        books that I can read on my laptop and Kindle. I'm spending most of my time
+        just absorbing what I can and applying it for Tome.gg. Other times, I just
+        daydream and diagram things in my notes, for Tome.gg's documentation.
+  - id: 88edb668-99c5-5f42-bf7e-80f60229434a
+    datetime: 2023-03-25
+    tags:
+      - light_work_day
+    done_yesterday: |
+      - More focused on readings.
+    doing_today: |
+      - I had my Strategic Management of IP class today, and learned quite a lot
+        about agri and food industry, along with pharma industry.
+      - Big take-away lessons are: (1) build and serve the biggest market that you 
+        can pursue then export your technology to your desired beneficiary (i.e. PH),
+        (2) Leverage patent registries as knowledge repositories, and use it to 
+        enter the market early. Later, when patents expire, you can leverage the
+        technologies in the expired patents to cut costs.
+      - I started drafting up more diagrams on my business plan for Tome.gg, including
+        visualizations of how Tome.gg is attacking educational inaccessibility.
+        Specifically, I added two new sheets to my Draw.io: Economic disruption
+        of educational costs, and Mapping out timings.
+      - Today I'm going to take a rest day, and spend the rest of the afternoon
+        relaxing and connecting with friends.
+    blockers: |
+      - Internet has still been intermittent.
