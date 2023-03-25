@@ -35,6 +35,25 @@ meta:
 #          Prioritization: make things usable, pretty i.e. creation.
 
 evaluations:
+  - id: 31948a73-38bc-5a8d-9ba2-febf4bcb81d9
+    measurements: 
+      - dimension: focus
+        score: 3
+        remarks: |
+          Taking part in a hackathon, where there will be judges that specify exactly
+          what their criteria is when evaluating you, truly helped me focus more.
+          The deadlines were clear, the expectations were clear. It was a nice
+          activity to participate in.
+  - id: a1ddf368-f7e2-5cdb-9d19-4114a780e9e9
+    measurements:
+      - dimension: focus
+        score: 3
+        remarks: |
+          These were notes that I was writing down, and thinking about while I 
+          was driving. I was literally practicing focus at this moment, and I was
+          consciously trimming out things that I won't do, so that I don't waste 
+          time. I'm very proud of this time because doing this practice while
+          I was driving felt very efficient.
   - id: edcb1cb6-b4a5-50f6-a24f-37a8b4b3ecfe
     measurements:
       - dimension: focus
@@ -44,3 +63,39 @@ evaluations:
           had urges to tinker with OpenAI and ChatGPT because everyone's working 
           with it. Out of some fears, I was worried that if I don't tinker with it,
           I'll get left behind. I recognize this is a fear-based approach though.
+  - id: 96326848-db30-53ed-8453-c08bb8eb172c
+    measurements:
+      - dimension: focus
+        score: 3
+        remarks: |
+          I didn't particularly let myself get distracted today by wanting to do
+          other things (build, experiment on things). It was a consciously decided
+          day that I knew was going to be 'light' in my practice of focus since I
+          had activities to attend to. Despite that, I was able to focus on it a 
+          little bit with reflections on marketing, but less strategy and planning.
+  - id: 1d0e2b93-0c4b-5432-8010-11eeae2bc784
+    measurements:
+      - dimension: focus
+        score: 3
+        remarks: |
+          Despite not having internet access, I was able to focus my efforts more
+          on the things that I do have control of and what I have access to. I read
+          a couple of books that are related to my business, and wrote down notes
+          on how I can leverage the concepts around them. Definitely a good practice.
+  - id: 891842c7-aa8b-5e11-a83e-ec56a5351e80
+    measurements: 
+      - dimension: focus
+        score: 2
+        remarks: |
+          Not entirely a planned thing, but more of a reactive thing. I decided to
+          apply to PushFar as a mentor, but this hasn't been something that I 
+          actively planned for. I'm rating myself with a score of 2 because I could
+          have better planned out my marketing direction and strategies better.
+  - id: 88edb668-99c5-5f42-bf7e-80f60229434a
+    measurements:
+      - dimension: focus
+        score: 3
+        remarks: |
+          As I was listening to my IP class, thoughts of how I can contextualize 
+          the IP management strategies for Tome.gg pops out, and I write them down.
+          Good practice overall.
