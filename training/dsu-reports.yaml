@@ -214,3 +214,32 @@ content:
         collaborating with possible influencers.
     blockers: |
       - Internet has still been intermittent.
+  - id: 3b79b03f-62d9-5259-8d91-e56b542c66ba
+    datetime: 2023-03-26
+    tags:
+      - light_work_day
+    done_yesterday: |
+      - Some internet connectivity returned, so I was able to look into a problem
+        I had with my whitepaper which is to present images full width on my 
+        two-column paper.
+      - I spent most of the day resting, and did not spend too much time on the
+        marketing strategy.
+      - I also attended an ED3 DAO coffee chat and was able to network with Ernest
+        from Gaia, along with the regular folks at ED3 DAO. Ernest and I were able 
+        to chat about his current progress of work in Bankless DAO which I think is
+        really cool. I feel like I'll be able to collaborate with him when it 
+        comes to creating learning content.
+    doing_today: |
+      - As today is a Sunday, I'm going to be taking the time to rest and focus on
+        other parts of my life, rather than think too much about Tome.gg.
+      - Today's focus is to focus on rest, and cultivate a hunger for Monday's work.
+      - Daydream and peg keywords for things to explore, but no heavy lifting.
+      - I'll be tutoring a close friend when it comes to software security and
+        engineering today. I will reflect on the experience of mentoring her today
+        and probably write a short reflection about it on Sapalo.dev.
+      - On Monday, I want to focus on writing base content on Tome.gg immediately, 
+        referencing the mental models (or theories) that are already in my arsenal.
+      - The goal will be to simply enumerate the "chapter headings" and not focus
+        on the specific details, or the inner content.
+    blockers: |
+      - Internet is still intermittent.
