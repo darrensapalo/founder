@@ -8,9 +8,9 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - name: Render Founder Report
-        run: docker run --rm --init --privileged --name dsu_report_test -p 8080:80 -v $(pwd)/src/config.json:/var/www/html/config.json -v $(pwd)/output:/app/cypress/screenshots/screenshot.cy.js darrensapalo/tome-gg-dsu-report:1.0.0-linux-amd64
+        run: docker run --rm --init --privileged --name dsu_report_test -p 8080:80 -v $(pwd)/src/config.json:/var/www/html/config.json -v $(pwd)/:/app/cypress/screenshots/screenshot.cy.js/ darrensapalo/tome-gg-dsu-report:1.0.0-linux-amd64
       - name: Upload screenshot artifact
         uses: actions/upload-artifact@v3
         with:
           name: screenshot
-          path: /app/cypress/screenshots/screenshot.cy.js/output.png
+          path: $(pwd)/output.png
