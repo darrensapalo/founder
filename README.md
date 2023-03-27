@@ -1,5 +1,13 @@
 # Founder
 
+![Last Commit](https://img.shields.io/github/last-commit/darrensapalo/founder)
+
+![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/darrensapalo/founder/validate-commit.yml?label=tome.gg)
+
+![License](https://img.shields.io/badge/license-Tome.gg%20Public%20Growth%20License-success)
+
+
+
 This is my public journal on my road to learning to become a founder.
 
 ![daily-progress](report.png)
