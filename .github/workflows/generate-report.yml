@@ -1,0 +1,17 @@
+name: Render Founder Report
+on:
+  push:
+    branches: [ main ]
+jobs:
+  render-report:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Render Founder Report
+        run: docker run --rm --init --privileged --name dsu_report_test -p 8080:80 -v "$(shell pwd)/src/config.json:/var/www/html/config.json" -v "$(shell pwd)/output:/app/cypress/screenshots/screenshot.cy.js" darrensapalo/tome-gg-dsu-report:1.0.0
+      - name: Upload screenshot artifact
+        uses: actions/upload-artifact@v2
+        with:
+          name: screenshot
+          path: /output/output.png
+          zip: false

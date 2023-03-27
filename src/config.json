@@ -1,0 +1,6 @@
+{
+  "headerText": "Founder report",
+  "repositoryUrl": "https://github.com/darrensapalo/founder",
+  "evaluationDataSource": "https://raw.githubusercontent.com/darrensapalo/founder/main/evaluations/eval-self.yaml",
+  "trainingDataSource": "https://raw.githubusercontent.com/darrensapalo/founder/main/training/dsu-reports.yaml"
+}
