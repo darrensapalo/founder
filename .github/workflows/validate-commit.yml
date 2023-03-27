@@ -1,0 +1,36 @@
+name: Validate Commit
+on:
+  push:
+    branches: [main]
+jobs:
+  validate:
+    name: Validate Commit
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v2
+      
+      - name: Install Tome Librarian CLI
+        run: |
+          curl -sL https://github.com/tome-gg/librarian/releases/download/0.1.0/tome-linux-amd64 -o tome
+          chmod +x tome
+          sudo mv tome /usr/local/bin/tome
+
+      - name: Run Tome Librarian CLI
+        run: tome validate .
+
+      - name: Set Status
+        if: ${{ success() }}
+        uses: marocchino/sticky-pull-request-comment@v2.2.0
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          message: "Valid Tome.gg repository"
+          stick: true
+
+      - name: Set Status
+        if: ${{ failure() }}
+        uses: marocchino/sticky-pull-request-comment@v2.2.0
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          message: "Invalid Tome.gg repository: ${{ steps.run-tome-librarian-cli.outputs.stderr }}"
+          stick: true
