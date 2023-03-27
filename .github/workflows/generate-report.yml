@@ -8,9 +8,10 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - name: Render Founder Report
-        run: docker run --rm --init --privileged --name dsu_report_test -p 8080:80 -v $(pwd)/src/config.json:/var/www/html/config.json -v $(pwd)/:/app/cypress/screenshots/screenshot.cy.js/ darrensapalo/tome-gg-dsu-report:1.0.0-linux-amd64
+        run: docker run --rm --init --privileged --name dsu_report_test -p 8080:80 -v ${{ github.workspace }}/src/config.json:/var/www/html/config.json -v ${{ github.workspace }}/:/app/cypress/screenshots/screenshot.cy.js/ darrensapalo/tome-gg-dsu-report:1.0.0-linux-amd64
       - name: Upload screenshot artifact
         uses: actions/upload-artifact@v3
         with:
           name: screenshot
-          path: $(pwd)/output.png
+          path: ${{ github.workspace }}/output.png
+          if-no-files-found: error
