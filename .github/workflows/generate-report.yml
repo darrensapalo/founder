@@ -13,4 +13,4 @@ jobs:
         uses: actions/upload-artifact@v3
         with:
           name: screenshot
-          path: $(pwd)/output/output.png
+          path: /app/cypress/screenshots/screenshot.cy.js/output.png
