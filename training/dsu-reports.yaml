@@ -243,3 +243,21 @@ content:
         on the specific details, or the inner content.
     blockers: |
       - Internet is still intermittent.
+  - id: 7e8bcb24-4304-5584-9d33-0f61c348df77
+    datetime: 2023-03-27
+    done_yesterday: |
+      - I spent most of the day teaching my friend some aspects of software engineering.
+    doing_today: |
+      - I intended to write base content on Tome.gg today, but I was unable to do that.
+      - Instead, I built the platform tooling for automated (a) Tome.gg librarian validation
+        and (b) founder report generation via GitHub Actions.
+  - id: 1b35a564-542c-5f35-87e2-d9c8286f25f5
+    datetime: 2023-03-28
+    done_yesterday: |
+      - I build platform tooling for Tome.gg.
+    doing_today: |
+      - Today we'll focus on writing about Tome.gg mental models that are already known. 
+      - The goal will be to simply enumerate at least 10 "chapter headings" and not focus
+        on the specific details or the inner content.
+      - We'll do a bit of ClickUp project management and tracking today to make
+        sure our objectives are fresh and we're carefully optimizing for those goals.
