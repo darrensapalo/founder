@@ -261,3 +261,31 @@ content:
         on the specific details or the inner content.
       - We'll do a bit of ClickUp project management and tracking today to make
         sure our objectives are fresh and we're carefully optimizing for those goals.
+  - id: 1b35a564-542c-5f35-87e2-d9c8286f25f5
+    datetime: 2023-03-29
+    tags: light_work_day
+    done_yesterday: |
+      - I was able to discover some technology called Open Knowledge Map, which I then
+        quickly researched, and deployed for myself.
+      - It wasn't part of the plans yesterday, so I regard it as lost focus- but this
+        has been one of the key visions that I had for Tome.gg way, way back.
+      - I deployed a self-hosted instance and will later integrate it such that it loads
+        data from the Tome.gg platform.
+      - Later on, anybody can contribute to that data, and the Tome.gg platform can act
+        as a curator/validator for high quality content.
+      - Although I haven't done the 10 chapter headings that I said, I did read up on
+        apprenticeship patterns which contained the mental models I do want to reference,
+        and incorporated them into the presentation that I have for later.
+      - To some extent, I did apply the mental models research, but it did not result
+        into the expected output (chapter headings, initial writing plans) and instead
+        was incorporated into the live presentation that I will have.
+    doing_today: |
+      - I find that I have been overly optimistic with how much time I have for the past
+        few days and I feel like I need to readjust my estimation/plans.
+      - Today I have a talk about open-source technologies and app modernization 
+        hosted by Microsoft PH, so today will be a light work day.
+      - I'm simplifying my task to just deciding on what are the top 5 mental 
+        models to write about for someone who is starting on their journey to become
+        a mid- or senior-level software engineer.
+    remarks: 
+      My internet has been stable for the past two days. I'm grateful.
