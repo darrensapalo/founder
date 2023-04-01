@@ -289,3 +289,37 @@ content:
         a mid- or senior-level software engineer.
     remarks: 
       My internet has been stable for the past two days. I'm grateful.
+  - id: cab31bdc-0d2c-5c57-babe-2c724825b504
+    datetime: 2023-03-30
+    tags: light_work_day
+    done_yesterday: |
+      - I held my talk on Microsoft PH.
+      - I spoke with Dom specifically about leveraging lead pages, and using a
+        waitlist campaign. I got inspired to build one for Tome.gg as well.
+    doing_today: |
+      - Build a waitlist campaign using the resources that Dom shared with me.
+  - id: c78f04a6-cdc4-5513-bbae-ea4fd6f34485
+    datetime: 2023-03-31
+    done_yesterday: |
+      - I finished the waitlist for Tome.gg, and integrated it to the main website.
+      - I also installed analytics on it so I can track acquisitions on the page.
+    doing_today: |
+      - I'm prioritizing doing my readings for my Intellectual Property class tomorrow.
+      - Things I learn on my IP class, I will write on my internal documents for Tome.gg.
+  - id: 6ea4b8f8-3541-5993-8be8-a66282bc5c5f
+    datetime: 2023-04-01
+    done_yesterday: | 
+      - I started my drafts on the IP policy for Tome.gg. It's a sheet on my diagram entitled 'IPR'.
+      - Finished some of the readings on my IP class. Drilled myself on IP valuation.
+    doing_today: |
+      - I attended my IP class.
+      - I built an open-source tool for interacting with ChatGPT. I built a Chronicle Log Parser
+        that integrated with ChatGPT, wherein you give it a raw log and some parser code following Logstash convention.
+      - I built a blog post around it, and blasted the work on my social media.
+  - id: 6ea4b8f8-3541-5993-8be8-a66282bc5c5f
+    datetime: 2023-04-02
+    done_yesterday: |
+      - Attended IP class and built an open-source ChatGPT tool.
+    doing_today: |
+      - Undetermined. Will decide when I wake up.
+    
