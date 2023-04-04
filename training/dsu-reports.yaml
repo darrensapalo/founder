@@ -317,9 +317,30 @@ content:
         that integrated with ChatGPT, wherein you give it a raw log and some parser code following Logstash convention.
       - I built a blog post around it, and blasted the work on my social media.
   - id: 6ea4b8f8-3541-5993-8be8-a66282bc5c5f
+    tags: light_work_day
     datetime: 2023-04-02
     done_yesterday: |
       - Attended IP class and built an open-source ChatGPT tool.
     doing_today: |
       - Undetermined. Will decide when I wake up.
-    
+  - id: 02accd2e-e467-550d-9af8-dd5bc791b209
+    datetime: 2023-04-03
+    tags: light_work_day
+    done_yesterday: |
+      - Yesterday I took the time to rest.
+    doing_today: |
+      - Today, Monday, I need to attend to other business matters not relating to Tome.gg.
+      - In the evening, I am scheduling a call with Rick and Will re inviting them to
+        use the platform of Tome.gg.
+  - id: b804b0da-4c69-56ca-b475-02904e6ec788
+    datetime: 2023-04-04
+    done_yesterday: |
+      - I was able to get Rick and Will's buy-in to try using the platform. That's 2 potential users.
+      - By going through my presentation with them (that took quite a while) I was able to reflect
+        on the weight/heaviness/volume of content that Tome.gg has.
+    doing_today: | 
+      - Today, I am going to try to summarize the topics I discussed with Rick and Will into
+        something digestable in 5-10 minutes.
+      - Best case scenario today is that I am able to design lead pages that are tailored
+        specifically for different personas.
+      - Tomorrow, I will put that content at the forefront of the Tome.gg application.
