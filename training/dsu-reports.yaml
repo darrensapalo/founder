@@ -341,6 +341,31 @@ content:
     doing_today: | 
       - Today, I am going to try to summarize the topics I discussed with Rick and Will into
         something digestable in 5-10 minutes.
-      - Best case scenario today is that I am able to design lead pages that are tailored
-        specifically for different personas.
+      - I wrote my reflections about my discussion with Rick and Will, and focused my efforts
+        first. Instead of designing lead pages that are tailored specifically for different personas,
+        I will focus on building assets first. The primary assets I need to create first are
+        my writings on (a) the fundamental barriers to personalized education
+      - 
       - Tomorrow, I will put that content at the forefront of the Tome.gg application.
+  - id: b243ab85-864f-5d25-82de-380281986f28
+    datetime: 2023-04-05
+    tags: 
+      - no_work
+      - vacation
+    done_yesterday: |
+      - I determined the lst of blog assets I will need to write based on my feedback from
+        my initial users.
+      - I came up with a list of user personas that I can design marketing lead pages for.
+    doing_today: |
+      - Light work day today because I need to attend to some family responsibilities.
+  - id: d081c32f-70ea-5007-b531-bb19bd24defa
+    datetime: 2023-04-06
+    tags: 
+      - vacation
+      - no_work
+    done_yesterday: |
+      - None
+    doing_today: |
+      - None
+    remarks: |
+      - I'll be busy during holy week and will resume work by April 9 or 10.
