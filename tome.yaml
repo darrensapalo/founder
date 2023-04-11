@@ -6,6 +6,8 @@ version: 1
 # how tome.gg will parse the directory as a data source. 'git' means
 # the parser will assume that this is a version-controlled directory.
 type: git
+# source - defines where the data/repository is stored.
+source: github.com/darrensapalo/founder
 
 # assets - defines the folders where image assets can be found.
 assets:
