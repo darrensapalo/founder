@@ -379,4 +379,52 @@ content:
         make sure alpha testers' experience is smooth.
       - I will write the first draft for the fundamental barriers to personalized education on
         the whitepaper.
+      - Created a new GitHub repository for data collection on mentors and apprentices: https://github.com/tome-gg/AwesomeMentorsApprentices
+      - This can be used later as an input for prompt engineering, for interacting with varying kinds of apprentices and mentors.
+  - id: df15e7b7-1df8-54c8-bdd9-e103c1ffae80
+    datetime: 2023-04-12
+    tags: 
+      - vacation
+      - no_work
+    done_yesterday: |
+      - No work.
+    doing_today: |
+      - No work. Preparations for my US Visa appointment tomorrow.
+  - id: df15e7b7-1df8-54c8-bdd9-e103c1ffae80
+    datetime: 2023-04-13
+    tags: 
+      - vacation
+      - no_work
+    done_yesterday: |
+      - No work.
+    doing_today: |
+      - No work. Resting with friends.
+  - id: df15e7b7-1df8-54c8-bdd9-e103c1ffae80
+    datetime: 2023-04-14
+    tags: 
+      - vacation
+      - no_work
+    done_yesterday: |
+      - No work.
+    doing_today: |
+      - No work. Resting with friends.
+  - id: df15e7b7-1df8-54c8-bdd9-e103c1ffae80
+    datetime: 2023-04-15
+    tags: 
+      - vacation
+      - no_work
+    done_yesterday: |
+      - No work.
+    doing_today: |
+      - Currently out with my college upperclassmen. Will talk about Tome.gg with them.
+  - id: fd75e1e9-dc06-55e4-b3d4-3ebe37019dcf
+    datetime: 2023-04-16
+    tags: light_work_day
+    done_yesterday: |
+      - I went on a vacation with my college upperclassmen and pitched Tome.gg as a learning platform.
+      - I also had my IP class this morning.
+      - No active work on Tome.gg.
+    doing_today: |
+      - I am researching LTI (Learning Tools Interoperability) standard so that Tome.gg Librarian protocol 
+        can act as a data store for the user's learning.
       
