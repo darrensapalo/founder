@@ -427,4 +427,11 @@ content:
     doing_today: |
       - I am researching LTI (Learning Tools Interoperability) standard so that Tome.gg Librarian protocol 
         can act as a data store for the user's learning.
-      
+  - id: b6e67c41-05e6-59d3-8f83-a15c59c22b6e
+    datetime: 2023-04-17
+    done_yesterday: |
+      - I started my work on the LTI app. I was able to build out the validation endpoint, now I just need to
+        build out the read and write endpoints.
+      - By implementing this LTI model, then I can quickly reach more users through interoperability.
+    doing_today: |
+      - Build the read and write endpoints.
