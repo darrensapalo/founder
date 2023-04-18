@@ -39,7 +39,7 @@ evaluations:
     measurements: 
       - dimension: focus
         score: 3
-        remarks: |
+        remarks: >
           Taking part in a hackathon, where there will be judges that specify exactly
           what their criteria is when evaluating you, truly helped me focus more.
           The deadlines were clear, the expectations were clear. It was a nice
@@ -48,7 +48,7 @@ evaluations:
     measurements:
       - dimension: focus
         score: 3
-        remarks: |
+        remarks: >
           These were notes that I was writing down, and thinking about while I 
           was driving. I was literally practicing focus at this moment, and I was
           consciously trimming out things that I won't do, so that I don't waste 
@@ -67,7 +67,7 @@ evaluations:
     measurements:
       - dimension: focus
         score: 3
-        remarks: |
+        remarks: >
           I didn't particularly let myself get distracted today by wanting to do
           other things (build, experiment on things). It was a consciously decided
           day that I knew was going to be 'light' in my practice of focus since I
@@ -77,7 +77,7 @@ evaluations:
     measurements:
       - dimension: focus
         score: 3
-        remarks: |
+        remarks: >
           Despite not having internet access, I was able to focus my efforts more
           on the things that I do have control of and what I have access to. I read
           a couple of books that are related to my business, and wrote down notes
@@ -86,7 +86,7 @@ evaluations:
     measurements: 
       - dimension: focus
         score: 2
-        remarks: |
+        remarks: >
           Not entirely a planned thing, but more of a reactive thing. I decided to
           apply to PushFar as a mentor, but this hasn't been something that I 
           actively planned for. I'm rating myself with a score of 2 because I could
@@ -95,7 +95,107 @@ evaluations:
     measurements:
       - dimension: focus
         score: 3
-        remarks: |
+        remarks: >
           As I was listening to my IP class, thoughts of how I can contextualize 
           the IP management strategies for Tome.gg pops out, and I write them down.
           Good practice overall.
+  - id: 3b79b03f-62d9-5259-8d91-e56b542c66ba
+    measurements:
+      - dimension: focus
+        score: 3
+  - id: 7e8bcb24-4304-5584-9d33-0f61c348df77
+    measurements: 
+      - dimension: focus
+        score: 3
+  - id: 1b35a564-542c-5f35-87e2-d9c8286f25f5
+    measurements: 
+      - dimension: focus
+        score: 2
+  - id: 1b35a564-542c-5f35-87e2-d9c8286f25f5
+    measurements:
+      - dimension: focus
+        score: 3
+        remarks: >
+          Speaking in Microsoft enabled me to raise awareness to Tome.gg.
+  - id: cab31bdc-0d2c-5c57-babe-2c724825b504
+    measurements:
+      - dimension: focus
+        score: 3
+        remarks: >
+          Building the waitlist creates a great entrypoint for my audience.
+  - id: c78f04a6-cdc4-5513-bbae-ea4fd6f34485
+    measurements:
+      - dimension: focus
+        score: 3
+  - id: 6ea4b8f8-3541-5993-8be8-a66282bc5c5f
+    measurements:
+      - dimension: focus
+        score: 2
+        remarks: >
+          I didn't need to build a chronicle log parser/ChatGPT web client today.
+          This time could have been used elsewhere. However, writing the blog post
+          on ChatGPT does lead to Tome.gg. However, it could have been time spent 
+          elsewhere.
+  - id: 6ea4b8f8-3541-5993-8be8-a66282bc5c5f
+    measurements:
+      - dimension: focus
+        score: 2
+  - id: 02accd2e-e467-550d-9af8-dd5bc791b209
+    measurements:
+      - dimension: focus
+        score: 3
+        remarks: >
+          Scheduling time with my past apprentices as potential users for Tome.gg. Good.
+  - id: b804b0da-4c69-56ca-b475-02904e6ec788
+    measurements:
+      - dimension: focus
+        score: 3
+  - id: b243ab85-864f-5d25-82de-380281986f28
+    measurements:
+      - dimension: focus
+        score: 2
+  - id: d081c32f-70ea-5007-b531-bb19bd24defa
+    measurements:
+      - dimension: focus
+        score: 2
+  - id: acaa3e96-1beb-5a1a-95cc-1859061a7151
+    measurements:
+      - dimension: focus
+        score: 3
+  - id: df15e7b7-1df8-54c8-bdd9-e103c1ffae80
+    measurements:
+      - dimension: focus
+        score: 2
+  - id: df15e7b7-1df8-54c8-bdd9-e103c1ffae80
+    measurements:
+      - dimension: focus
+        score: 2
+  - id: df15e7b7-1df8-54c8-bdd9-e103c1ffae80
+    measurements:
+      - dimension: focus
+        score: 2
+  - id: df15e7b7-1df8-54c8-bdd9-e103c1ffae80
+    measurements:
+      - dimension: focus
+        score: 3
+        remarks: >
+          I was able to speak with my college upperclassmen about Tome.gg, so I
+          was able to partially listen to their challenges in their mid-level 
+          career progressions.
+  - id: fd75e1e9-dc06-55e4-b3d4-3ebe37019dcf
+    measurements:
+      - dimension: focus
+        score: 3
+        remarks: >
+          Building on the LTI standard will broaden my system's interoperability.
+          It will enable Canvas LMS integration.
+  - id: b6e67c41-05e6-59d3-8f83-a15c59c22b6e
+    measurements:
+      - dimension: focus
+        score: 3
+  - id: 0ed71fe0-7fc3-5816-8f59-0a2b9a691f04
+    measurements:
+      - dimension: focus
+        score: 3
+        remarks: >
+          Protocol definitions are assets that everyone on the platform will get to use.
