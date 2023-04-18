@@ -435,3 +435,15 @@ content:
       - By implementing this LTI model, then I can quickly reach more users through interoperability.
     doing_today: |
       - Build the read and write endpoints.
+  - id: 0ed71fe0-7fc3-5816-8f59-0a2b9a691f04
+    datetime: 2023-04-18
+    done_yesterday: |
+      - I focused on generating content for map.tome.gg, which mentors and apprentices can 
+        use to accelerate their growth.
+      - I built an encoding/decoding script that works with ChatGPT to easily summarize 
+        blog articles and add them to the map.
+    doing_today: | 
+      - I started writing content on protocol.tome.gg. These are critical assets that will help
+        both mentors and apprentices be on the same page of learning.
+      - These protocol pages can act as an addendum to their mentorship agreements and
+        alignment negotiations.
