@@ -484,6 +484,7 @@ content:
       - No work.
   - id: d1aab151-26ea-5435-913f-96e265bd00a7
     tags: no_work
+    datetime: 2023-04-25
     done_yesterday: |
       - No work.
     doing_today: |
@@ -499,6 +500,7 @@ content:
       - Learnings:
         - Deciding on which activities earn me the most ROI on my KPIs is important.
   - id: 6a9d5103-f1e6-5d4a-a4ce-4c96a168c937
+    datetime: 2023-04-26
     tags: no_work
     done_yesterday: |
       - Coordinated with Rick and had my first mentorship session in quite a long time.
@@ -506,3 +508,25 @@ content:
       - Created new diagram: Phases of learning (https://drive.google.com/file/d/1SQWQ_MD3TH6PI9IiyqvUYeEFC1iF1QzV/view?usp=share_link)
     doing_today: | 
       - No work today, as I'll be focusing on my finals exam for my SMIP course.
+  - id: e0e0bc65-ad44-547d-8255-7ec9bac6a585
+    done_yesterday: |
+      - Focused on SMIP finals exam.
+    doing_today: |
+      - Doing passive research work on Tome.gg, reading about ELOs, rankings, and games.
+      - Resting a little bit to recover from the context switching on SMIP.
+  - id: cf7560e6-d74f-5a56-b04a-5125dfe056ff
+    datetime: 2023-04-27
+    done_yesterday: |
+      - Initial research on ELOs and rankings.
+    doing_today: |
+      - Performed market research preparations for Tome.gg mentorship/apprenticeship inventory/survey.
+      - See: https://docs.google.com/spreadsheets/d/1YP5JTyrUbIx_GWQWIIJOwE1FBZUZacc3wICebae84Vg/edit#gid=0
+      - This Tome.gg Inventory for Apprentices and Mentors can be taken regularly to track a person's growth progress and adaptation.
+      - Researched a little bit on Glicko and ELO ratings: "Glickman's principal contribution to measurement is "ratings reliability", called RD, for ratings deviation."
+        - ELO Rating: https://www.youtube.com/watch?v=AsYfbmp0To0
+        - Glicko Rating: https://en.wikipedia.org/wiki/Glicko_rating_system
+      - Defined distinction between self-performance evaluation vs. alignment evaluation (to assess one's alignment to Tome.gg's principles).
+      - Integrated the design of the per-KPI evaluation to the training and data recording system that we have in Tome.gg. See Bear note: "Positioning and evaluations".
+      - Designed a little bit the concept of "Lenses" which distinguish a subjective perspective on Tome.gg network effects.
+      - Updated Appsmith dashboard to connect to actual data sources (GitHub repository and Airtable) for tracking
+        the KPIs: apprentices mentored, total waitlist, and total Tome.gg map data.
