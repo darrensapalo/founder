@@ -520,7 +520,7 @@ content:
       - Initial research on ELOs and rankings.
     doing_today: |
       - Performed market research preparations for Tome.gg mentorship/apprenticeship inventory/survey.
-      - See: https://docs.google.com/spreadsheets/d/1YP5JTyrUbIx_GWQWIIJOwE1FBZUZacc3wICebae84Vg/edit#gid=0
+        - See: https://docs.google.com/spreadsheets/d/1YP5JTyrUbIx_GWQWIIJOwE1FBZUZacc3wICebae84Vg/edit#gid=0
       - This Tome.gg Inventory for Apprentices and Mentors can be taken regularly to track a person's growth progress and adaptation.
       - Researched a little bit on Glicko and ELO ratings: "Glickman's principal contribution to measurement is "ratings reliability", called RD, for ratings deviation."
         - ELO Rating: https://www.youtube.com/watch?v=AsYfbmp0To0
@@ -530,3 +530,7 @@ content:
       - Designed a little bit the concept of "Lenses" which distinguish a subjective perspective on Tome.gg network effects.
       - Updated Appsmith dashboard to connect to actual data sources (GitHub repository and Airtable) for tracking
         the KPIs: apprentices mentored, total waitlist, and total Tome.gg map data.
+      - For accountability, I released an announcement (which I will eventually do every week) informing the Tome.gg community
+        about the progress of the platform. That way, I keep my waitlist hot and excited about all of the progress!
+      - Built the waitlist for the Tome.gg roleplay case-based learning.
+        - See: https://waitlist.tome.gg/rpg
