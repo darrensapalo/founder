@@ -546,3 +546,28 @@ content:
     doing_today: |
       - Write about the specific responsibilities of mentors and apprentices on the whitepaper.
       - Write about the barriers to personalized education.
+  - id: 0586eb3b-5703-5d62-8bae-bf3357e0f3c6
+    datetime: 2023-04-29
+    done_yesterday: |
+      - Write about the specific responsibilities of mentors and apprentices on the whitepaper.
+      - Write about the barriers to personalized education.
+    doing_today: |
+      - Acquired another apprentice that will use Tome.gg. Currently at 3 apprentices now.
+  - id: a333183d-770c-518d-9012-cb4ec2b57d6d
+    datetime: 2023-04-30
+    tags: light_work_day
+    doing_yesterday: |
+      - Locked in an apprentice.
+    doing_today: |
+      - Reflection about how to optimize the intake of new apprenticeships. I will need to
+        simplify my onboarding to make it very easy to onboard.
+  - id: 3ac3a404-5ecb-5ce0-940c-6a7f793ce991
+    datetime: 2023-05-01
+    tags: light_work_day
+    doing_yesterday: |
+      - Rest day.
+    doing_today: |
+      - Meeting with my apprentice JC to flesh out directions/goals/plans more carefully.
+      - Help JC with using the tooling.
+      - Will be having a light work day because I have a Revalida presentation for 
+        my strategic management of IP class.
