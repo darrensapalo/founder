@@ -571,3 +571,29 @@ content:
       - Help JC with using the tooling.
       - Will be having a light work day because I have a Revalida presentation for 
         my strategic management of IP class.
+  - id: c3a9858e-5b7c-5ca2-a71d-b601d7cfdc29
+    datetime: 2023-05-07
+    tags: no_work
+    doing_yesterday: |
+      - None
+    doing_today: |
+      - None
+  - id: 92d960d2-65e9-585b-b087-ba67dffedefe
+    datetime: 2023-05-08
+    doing_yesterday: |
+      - Rest
+    doing_today: |
+      - Fundamental barriers to education
+  - id: 67a6930c-028c-5b96-94c1-e8f9c6eca27e
+    datetime: 2023-05-12
+    doing_yesterday: |
+      - Networking and building connections with friends from the RapidPass project and
+        my masters in CS.
+    doing_today: |
+      - Networking with one of my Hult friends.
+      - Marketing Tome.gg to potential tech consulting client who has an engineering team.
+      - Updated content on the Tome.gg Library.
+    remarks: |
+      Work for tomorrow: 
+      - Working on the Tome.gg whitepaper.
+      - Record onboarding video workflow for software engineers.
