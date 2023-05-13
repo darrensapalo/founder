@@ -11,6 +11,16 @@ meta:
     type: dsu
     version: 0.1.0
     definition: https://protocol.tome.gg/formats/dsu/0.1.0
+  goal: 
+    title: Scalably mentor 10 apprentices on Tome.gg
+    description: Develop assets and design the Tome.gg platform to deliver 
+      personalized education and excellent learning experience through focus 
+      and efficiency.
+    dimensions:
+      - alias: focus
+        name: focus
+        version: 0.1.0
+        definition: https://protocol.tome.gg/dimensions/focus/0.1.0
   # Applies the following tags to all of the content, instead of having to write them
   # down each time.
   tags: [daily_stand_up]
@@ -605,3 +615,4 @@ content:
     doing_today: |
       - Add content on the Tome.gg map.
       - Develop sample RPG tabletop case study session.
+      - Design visual treat for Tome.gg students.
