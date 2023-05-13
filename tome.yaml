@@ -13,6 +13,11 @@ source: github.com/darrensapalo/founder
 assets:
  - assets/
 
+# Your personal information, used for visualization purposes.
+student:
+  name: Darren Sapalo
+  nickname: Darren
+
 # contents - defines where the tome.gg  content can be found. This is
 # categorized by type of content.
 content:
