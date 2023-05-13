@@ -519,15 +519,22 @@ content:
     doing_today: | 
       - No work today, as I'll be focusing on my finals exam for my SMIP course.
   - id: e0e0bc65-ad44-547d-8255-7ec9bac6a585
+    datetime: 2023-04-27
     done_yesterday: |
       - Focused on SMIP finals exam.
     doing_today: |
       - Doing passive research work on Tome.gg, reading about ELOs, rankings, and games.
       - Resting a little bit to recover from the context switching on SMIP.
   - id: cf7560e6-d74f-5a56-b04a-5125dfe056ff
-    datetime: 2023-04-27
+    datetime: 2023-04-28
     done_yesterday: |
       - Initial research on ELOs and rankings.
+      - Market research preparations
+      - Studied rankings design
+      - Distinguished self-performance evaluation vs. alignment evaluation
+      - Distinguished different models of peer-to-peer learning: Kenshusei
+      - Designed a KPI dashboard to focus my efforts on Appsmith
+      - Released an announcement on my blog, my Twitter, and my Discord
     doing_today: |
       - Performed market research preparations for Tome.gg mentorship/apprenticeship inventory/survey.
         - See: https://docs.google.com/spreadsheets/d/1YP5JTyrUbIx_GWQWIIJOwE1FBZUZacc3wICebae84Vg/edit#gid=0
@@ -544,16 +551,6 @@ content:
         about the progress of the platform. That way, I keep my waitlist hot and excited about all of the progress!
       - Built the waitlist for the Tome.gg roleplay case-based learning.
         - See: https://waitlist.tome.gg/rpg
-  - id: 90a13cad-65fa-55fc-affa-4d51e716f749
-    datetime: 2023-04-28
-    done_yesterday: |
-      - Market research preparations
-      - Studied rankings design
-      - Distinguished self-performance evaluation vs. alignment evaluation
-      - Distinguished different models of peer-to-peer learning: Kenshusei
-      - Designed a KPI dashboard to focus my efforts on Appsmith
-      - Released an announcement on my blog, my Twitter, and my Discord
-    doing_today: |
       - Write about the specific responsibilities of mentors and apprentices on the whitepaper.
       - Write about the barriers to personalized education.
   - id: 0586eb3b-5703-5d62-8bae-bf3357e0f3c6
