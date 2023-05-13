@@ -597,3 +597,11 @@ content:
       Work for tomorrow: 
       - Working on the Tome.gg whitepaper.
       - Record onboarding video workflow for software engineers.
+  - id: 17df8ce5-a993-5fc1-a2ad-eb95c203b17c
+    datetime: 2023-05-13
+    done_yesterday: |
+      - Updated content on the Tome.gg Library. This can be reused by existing students.
+      - Build sample RPG tabletop case study session.
+    doing_today: |
+      - Add content on the Tome.gg map.
+      - Develop sample RPG tabletop case study session.
