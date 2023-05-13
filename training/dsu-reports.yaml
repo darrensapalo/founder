@@ -556,7 +556,7 @@ content:
   - id: a333183d-770c-518d-9012-cb4ec2b57d6d
     datetime: 2023-04-30
     tags: light_work_day
-    doing_yesterday: |
+    done_yesterday: |
       - Locked in an apprentice.
     doing_today: |
       - Reflection about how to optimize the intake of new apprenticeships. I will need to
@@ -564,7 +564,7 @@ content:
   - id: 3ac3a404-5ecb-5ce0-940c-6a7f793ce991
     datetime: 2023-05-01
     tags: light_work_day
-    doing_yesterday: |
+    done_yesterday: |
       - Rest day.
     doing_today: |
       - Meeting with my apprentice JC to flesh out directions/goals/plans more carefully.
@@ -574,19 +574,19 @@ content:
   - id: c3a9858e-5b7c-5ca2-a71d-b601d7cfdc29
     datetime: 2023-05-07
     tags: no_work
-    doing_yesterday: |
+    done_yesterday: |
       - None
     doing_today: |
       - None
   - id: 92d960d2-65e9-585b-b087-ba67dffedefe
     datetime: 2023-05-08
-    doing_yesterday: |
+    done_yesterday: |
       - Rest
     doing_today: |
       - Fundamental barriers to education
   - id: 67a6930c-028c-5b96-94c1-e8f9c6eca27e
     datetime: 2023-05-12
-    doing_yesterday: |
+    done_yesterday: |
       - Networking and building connections with friends from the RapidPass project and
         my masters in CS.
     doing_today: |
