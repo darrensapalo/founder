@@ -613,3 +613,13 @@ content:
       - Add content on the Tome.gg map.
       - Develop sample RPG tabletop case study session.
       - Design visual treat for Tome.gg students.
+      - Create a bash script to automatically configure the Tome CLI.
+  - id: 72a43511-7b93-50dc-9e1e-0729d13775cc
+    datetime: 2023-05-22
+    done_yesterday: |
+      - Investigated security issues with sapalo.dev website, and reverted to a stable build.
+    doing_today: |
+      - Implemented `tome init` command to easily start up a new GitHub repository using Tome.gg's template.
+      - I'm prioritizing how "rapidly" a user can onboard into the system so that it will be easy.
+    remarks: |
+      - I've been sick for more than a week, since I tested positive for COVID 19. I've recovered now.
