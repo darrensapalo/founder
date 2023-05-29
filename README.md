@@ -6,8 +6,6 @@
 
 ![License](https://img.shields.io/badge/license-Tome.gg%20Public%20Growth%20License-success)
 
-
-
 This is my public journal on my road to learning to become a founder.
 
 ![daily-progress](report.png)
