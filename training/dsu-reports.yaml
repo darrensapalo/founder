@@ -632,3 +632,18 @@ content:
       - Planning out how to automate the data entry for the map.
       - This can later be reused/redeployed for various other opportunities (e.g. gaming).
       - If I can automate the data entry process, then the search will be more useful.
+  - id: 755fe086-622d-5efe-8802-a42fe99069e5
+    datetime: 2023-05-26
+    done_yesterday: |
+      - None
+    doing_today: |
+      - Consulted my brother on digital marketing, content planning for Tome.gg.
+      - This will help me prioritize my activities so that I can get the most
+        progress from Tome.gg.
+  - id: 148fa588-42fd-5c65-9f31-d8707d821a46
+    datetime: 2023-05-29
+    done_yesterday: |
+      - Reviewed the Tome.gg whitepaper.
+    doing_today: |
+      - Reflecting on some topics on mentorship.
+      - Draft some thoughts on Tome.gg's library.

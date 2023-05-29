@@ -199,3 +199,132 @@ evaluations:
         score: 3
         remarks: >
           Protocol definitions are assets that everyone on the platform will get to use.
+  - id: 5ebf0a06-6740-53af-90e6-b174c380916e
+    measurements:
+      - dimension: focus
+        score: 3
+        remarks: >
+          This is good. Updating the sapalo.dev blog as better instructional 
+          material will help with internal content production used on map.tome.gg.
+  - id: 6b2f9cea-9017-5a46-9e2d-6bc70a25ce92
+    measurements: 
+      - dimension: focus
+        score: 3
+        remarks: >
+          Balancing priorities with family business was the correct move here.
+  - id: 2600404f-a289-59c7-9c88-27b307933611
+    measurements: 
+      - dimension: focus
+        score: 3
+        remarks: > 
+          Weekends are intended for rest.
+  - id: a94dc869-507f-5488-b400-ce4c492df9ab
+    measurements: 
+      - dimension: focus
+        score: 2
+        remarks: >
+          Although I produced a video asset (Appsmith 101) with low effort but 
+          high value, I should be more wary about what events, speaking gigs I
+          take up by qualifying how broad their audience reach is. That way I can
+          say no to unproductive activities that don't meet my metrics.
+  - id: bd1609db-3551-5c74-a9e8-3d8ae6257b6d
+    measurements: 
+      - dimension: focus
+        score: 3
+        remarks: >
+          Weekends are intended for rest.
+  - id: d1aab151-26ea-5435-913f-96e265bd00a7
+    measurements: 
+      - dimension: focus
+        score: 3
+        remarks: >
+          Focusing on my IP studies was the correct thing to do here. But I still
+          made time to reflect on KPIs for Tome.gg, thus hyper focusing on my goal.
+  - id: 6a9d5103-f1e6-5d4a-a4ce-4c96a168c937
+    measurements: 
+      - dimension: focus
+        score: 3
+        remarks: >
+          First mentorship session in a long time. This was a good start.
+  - id: e0e0bc65-ad44-547d-8255-7ec9bac6a585
+    measurements: 
+      - dimension: focus
+        score: 3
+        remarks: >
+          Focused on my IP class exam. This was the right call.
+  - id: cf7560e6-d74f-5a56-b04a-5125dfe056ff
+    measurements: 
+      - dimension: focus
+        score: 3
+        remarks: >
+          Good research into ratings, matchmaking, and peer-to-peer learning.
+  
+  - id: 0586eb3b-5703-5d62-8bae-bf3357e0f3c6
+    measurements: 
+      - dimension: focus
+        score: 3
+        remarks: >
+          Writing on the whitepaper helps you focus further.
+  - id: a333183d-770c-518d-9012-cb4ec2b57d6d
+    measurements: 
+      - dimension: focus
+        score: 3
+        remarks: >
+          Gaining an apprentice moves towards the goal.
+  - id: 3ac3a404-5ecb-5ce0-940c-6a7f793ce991
+    measurements: 
+      - dimension: focus
+        score: 3
+        remarks: >
+          Performing mentorship moves towards the goal.
+  - id: c3a9858e-5b7c-5ca2-a71d-b601d7cfdc29
+    measurements: 
+      - dimension: focus
+        score: 3
+        remarks: >
+          Weekends are intended for rest.
+  - id: 92d960d2-65e9-585b-b087-ba67dffedefe
+    measurements: 
+      - dimension: focus
+        score: 3
+        remarks: >
+          Writing on the whitepaper helps focus.
+  - id: 67a6930c-028c-5b96-94c1-e8f9c6eca27e
+    measurements: 
+      - dimension: focus
+        score: 3
+        remarks: >
+          Networking expands the reach for tome.gg, towards the goals.
+  - id: 17df8ce5-a993-5fc1-a2ad-eb95c203b17c
+    measurements: 
+      - dimension: focus
+        score: 3
+  - id: 72a43511-7b93-50dc-9e1e-0729d13775cc
+    measurements: 
+      - dimension: focus
+        score: 3
+        remarks: >
+          Improving onboarding process by improving the Tome CLI tool.
+  - id: 064036f2-0121-56b2-8c1c-a5d4a7a033d5
+    measurements: 
+      - dimension: focus
+        score: 3
+        remarks: >
+          Improving the map product contributes to better studying/referencing
+          by students, and also improves Tome.gg brand.
+  - id: 755fe086-622d-5efe-8802-a42fe99069e5
+    measurements: 
+      - dimension: focus
+        score: 4
+        remarks: >
+          Getting an outside perspective of a business owner that can help me
+          evaluate my focus on launching my product/services will help me read
+          my situation better.
+  - id: 148fa588-42fd-5c65-9f31-d8707d821a46
+    measurements: 
+      - dimension: focus
+        score: 4
+        remarks: >
+          Aside from doing all of my self evaluations which focuses me on reflecting
+          on my past performance, I also get to reflect on writing about focus.
+          See https://protocol.tome.gg/dimensions/focus
