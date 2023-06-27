@@ -669,3 +669,13 @@ content:
       - None.
     doing_today: |
       - Revising the Tome.gg whitepaper, and merging the latest changes to master.
+  - id: 534126c4-674e-51c7-bb88-f567598db5f4
+    done_yesterday: |
+      - None.
+    doing_today: |
+      - Fixed and tested rotational content marketing system.
+      - Updated n8n deployed version.
+      - Implemented a daily notification system lifting data from ClickUp, to help focus progress.
+    remarks: |
+      - Addressed security vulnerabilities in some personal websites.
+      - Tomorrow, I'll focus on improving the landing page of tome.gg, to highlight its value proposition.
