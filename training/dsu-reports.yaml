@@ -730,3 +730,12 @@ content:
         - Created new sections for service offerings and mentorship details.
       - Mentorship
         - Check-in message with the apprentices
+      - Metrics
+        - To convince both apprentices and mentors, we'll need to record the ff:
+          - application time for mentors
+          - time it takes for a mentor to advance to next tiers
+          - apprentice feedback on mentors following Tome.gg's protocol
+        - Ideally these are stored in the blockchain as a 'granular' form of 
+          learning in public.
+        - Teaching apprentices and mentors about what content they ought to present
+          and adapting what they project based on their goals is also something to teach.
