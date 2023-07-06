@@ -679,3 +679,38 @@ content:
     remarks: |
       - Addressed security vulnerabilities in some personal websites.
       - Tomorrow, I'll focus on improving the landing page of tome.gg, to highlight its value proposition.
+  - id: cafc44e5-67dc-50ce-bf71-27b46e8dc689
+    datetime: 2023-06-28
+    doing_today: |
+      - Initial research into Miroboard development for the interactive case study activity.
+    done_yesterday: |
+      - None.
+  - id: e57cfe86-137d-5da3-98fb-b9dc6e1ea74d
+    datetime: 2023-06-30
+    doing_today: |
+      - Fixed a broken URL to the tome.gg waitlist.
+      - Revised copy text on front page to highlight Tome.gg's value proposition, 
+        in preparation for the Chainlink codecamp I will be participating in.
+    done_yesterday: |
+      - None.
+  - id: 52ef7db5-352b-5cab-a471-ac302003e7a3
+    datetime: 2023-07-03
+    doing_today: |
+      - Designed a simple favicon Icon for the tome.gg website, which looks like an empty journal.
+      - Designed over a hundred visual image content for a tome of knowledge. This will be used 
+        for NFT purposes.
+    done_yesterday: |
+      - None.
+  - id: c978c7d3-5c74-5847-9e6a-8c9fbdbd7652
+    datetime: 2023-07-04
+    doing_today: |
+      - Optimized tome.gg website by using webp format.
+      - Designed a build image preprocessing pipeline for the tome.gg website.
+    done_yesterday: |
+      - Website improvements and image content generation.
+  - id: 2e6f1de1-24ff-537d-8bb8-30281007cd92
+    datetime: 2023-07-05
+    doing_today: |
+      - Optimized the Tome.gg website by removing redundant GA tags/scripts.
+    done_yesterday: |
+      - Website optimizations.
