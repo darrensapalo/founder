@@ -714,3 +714,19 @@ content:
       - Optimized the Tome.gg website by removing redundant GA tags/scripts.
     done_yesterday: |
       - Website optimizations.
+  - id: 2b948f4c-6f2d-55c3-80b3-d2cb99911b03
+    datetime: 2023-07-06
+    doing_yesterday: |
+      - Website optimizations.
+    doing_today: |
+      - Project management
+        - Reorganized ClickUp project management for Tome.gg.
+      - People and key partners
+        - Reached out to potential suppliers for instructional media design 
+          and social media management work.
+        - Reaching out to a mentor applicant to discuss mentorship terms with them.
+      - Updates on tome.gg website
+        - Fixed a bug wherein it had an NPE that completely left the page blank.
+        - Created new sections for service offerings and mentorship details.
+      - Mentorship
+        - Check-in message with the apprentices
