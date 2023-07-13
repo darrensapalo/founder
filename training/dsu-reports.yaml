@@ -783,3 +783,4 @@ content:
       - Updated web automation to improve notifications being sent to the 
         internal Tome.gg team, so that it is easier for the team to reabsorb
         context and generate value.
+      - Updated Tome CLI to 0.3.0; it now validates that each training entry contains date values.
