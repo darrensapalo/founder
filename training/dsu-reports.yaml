@@ -739,3 +739,46 @@ content:
           learning in public.
         - Teaching apprentices and mentors about what content they ought to present
           and adapting what they project based on their goals is also something to teach.
+  - id: 9802472b-7088-5723-a5f5-69188032fe2d
+    datetime: 2023-07-07
+    done_yesterday: |
+      - Organized Tome.gg operations
+    doing_today: |
+      - Ideated on the core service offering of Tome.gg and its price points
+      - Mentored secops/engineering apprentice
+      - Connected with Web3 PH founder on possible coaching and mentoring collaboration
+      - Met (introduction) with potential SWE apprentice
+      - Consulted a friend regarding design and branding advice for Tome.gg
+      - Met with founder of Array.org.ph and discussed aligned interests
+  - id: d61692d8-e161-50ee-8db7-2731a729213f
+    datetime: 2023-07-08
+    done_yesterday: |
+      - A lot of meetings and business networking.
+    doing_today: |
+      - Mentoring check in with an apprentice of mine who has connections for a possible B2B engagement. He's promoting
+        Tome.gg and its platform to their company.
+  - id: 2aa23a86-aacb-5b9a-83cd-3a8e8d65c6f9
+    datetime: 2023-07-10
+    done_yesterday: |
+      - None.
+    doing_today: |
+      - Check in with a potential apprentice/customer; they might be available next year instead of this year.
+      - Had a mentoring session with secops apprentice. Organized my note-taking when teaching apprentices.
+      - Met up with Web3 PH founder to further discuss potential coaching/mentoring collaboration.
+  - id: f338f1e3-14dc-5942-b061-5208845fdf5f
+    datetime: 2023-07-12
+    done_yesterday: |
+      - None
+    doing_today: |
+      - Closed one of the key personnel to help with general management/operations for Tome.gg.
+  - id: f374b1b5-cf87-5ac3-b76b-f67cd64ad3ff
+    datetime: 2023-07-13
+    done_yesterday: |
+      - HR work, closing the general manager engagement.
+    doing_today: |
+      - Organized mentorship dashboard
+      - Organized project management dashboard
+      - Wrote down draft notes on branding identity and design.
+      - Updated web automation to improve notifications being sent to the 
+        internal Tome.gg team, so that it is easier for the team to reabsorb
+        context and generate value.
