@@ -739,6 +739,7 @@ content:
           learning in public.
         - Teaching apprentices and mentors about what content they ought to present
           and adapting what they project based on their goals is also something to teach.
+
   - id: 9802472b-7088-5723-a5f5-69188032fe2d
     datetime: 2023-07-07
     done_yesterday: |
@@ -754,7 +755,10 @@ content:
     datetime: 2023-07-08
     done_yesterday: |
       - A lot of meetings and business networking.
+      - Spoke with Kristian Quirapas from Web3 PH, on a possible collaboration.
     doing_today: |
+      - Detailed specifics on the collaboration with Kristian. Identified key 
+        questions we both need to explore for the venture.
       - Another business fundamentals session, focusing on pricing and unit economics.
       - Mentoring check in with an apprentice of mine who has connections for a possible B2B engagement. He's promoting
         Tome.gg and its platform to their company.
@@ -763,9 +767,13 @@ content:
     done_yesterday: |
       - None.
     doing_today: |
-      - Check in with a potential apprentice/customer; they might be available next year instead of this year.
-      - Had a mentoring session with secops apprentice. Organized my note-taking when teaching apprentices.
-      - Met up with Web3 PH founder to further discuss potential coaching/mentoring collaboration.
+      - Apprentices
+        - Check in with a potential apprentice/customer; they might be available next year instead of this year.
+        - Had a mentoring session with secops apprentice. Organized my note-taking when teaching apprentices.
+      - Vulcanic Labs
+        - Met up with Web3 PH founder to further discuss potential coaching/mentoring collaboration.
+        - Finished writing on the initial docs (draft structure for the program).
+        - Brought up some people I'm interested to collaborate with.
   - id: f338f1e3-14dc-5942-b061-5208845fdf5f
     datetime: 2023-07-12
     done_yesterday: |
@@ -786,3 +794,124 @@ content:
       - Updated Tome CLI to 0.3.0; it now validates that each training entry contains date values.
       - Reported an issue on dsu-reports; private repositories are inacessible due to privacy. Need Tome.gg to intermediate. 
         See: https://github.com/tome-gg/dsu-report/issues/1
+  - id: 85401b6b-e4f9-53a6-b0fb-5eea4f50a3a8
+    datetime: 2023-07-18
+    done_yesterday: |
+      - None
+    doing_today: |
+      - Setting up an alignment meeting with Kristian regarding the collaboration.
+        - This was the second draft of the topic which includes a more fleshed 
+          out course curriculum.
+      - Baron - Operations
+        - I reached out to ask for his availability and commitment to work
+          with me in Tome.gg.
+        - Baron agreed to the role. More detailed terms to follow.
+      - Annika - Socmed
+        - Annika provided a canva slide deck on Tome.gg
+        - I reviewed it and set up a session with Annika to say thank you for 
+          the specific parts that were very helpful, provide feedback on her work
+        - Also set up a coaching session to discuss how she can improve her 
+          work in a client that she's working on (a product she's developing for
+          MSME e-commerce sites).
+  - id: c4efb4d5-631a-5a17-99c6-69cdb71c6e8e
+    datetime: 2023-07-19
+    done_yesterday: |
+      - None
+    doing_today: |
+      - Internal planning for the collaboration (IP licensing, course curriculum 
+        initial drafts)
+  - id: dbfa92c8-ab48-54b5-8cb5-263b05fa2a5a
+    datetime: 2023-07-21
+    remarks: |
+      - This is a Friday, before the clear Saturday alignment. This was the day
+        I was focusing on attending the FDE Marketplace workshops at Every Nation, BGC.
+      - Annika - Socmed
+        - Checked in with Annika on her practices and content creation work.
+    done_yesterday: |
+      - None
+    doing_today: |
+      - Alignment meeting with Kristian on project updates, risk and opportunities,
+        importance of establishing good communication protocols, directions & alignment.
+      - We scheduled a call for the following Saturday where we will discuss all of these things.
+  - id: cba1216d-df58-5b82-982d-06e394efb7c0
+    datetime: 2023-07-22
+    done_yesterday: |
+      - None
+    doing_today: |
+      - Attended Every Nation - Victory Church BGC - The Marketplace fellowship session
+        with fellow business owners and christian entrepreneurs. Immersing myself
+        around fellow christian entrepreneurs allows me to learn more about the mindsets
+        and behaviors that align business goals with faith mission.
+      - Got to meet Cha today, who is operating a life-coaching business. Exploring
+        possible opportunities to collaborate with her specifically on areas of soft
+        skills development that I need for my mentors or apprentices in Tome.gg.
+      - Spoke with Kristian in the evening on the drive home. We discussed expectations
+        on how we want to run the collaboration, expectations for the students.
+      - Later in the evening, we established a commitment to improved communications to
+        ensure we're both on the same page. Areas of responsibilities + IP licensing
+        discussions to follow, once Kristian has reviewed it.
+  - id: 1e75e0a3-7c23-59d2-9f3e-dbf9d0c75ad9
+    datetime: 2023-07-26
+    remarks: |
+      - This evening, my staycation with my family ended.
+    done_yesterday: |
+      -None
+    doing_today: |
+      - As soon as I got home, I was able to get on a call with Seaver to discuss
+        a little bit more about Tome.gg and the directions that I have for it.
+      - Seaver asked really good questions which I really liked. I'm looking forward
+        to working with him more closely and see what kinds of projects he might be
+        running.
+      - Kristian gives more insights on how he wants to run the collaboration.
+      - Reviewed it briefly and decided to postpone our collaboration until we have
+        better opportunities working with each other.
+      - Provided feedback to Kristian on how our engagement and experience working 
+        with each other could have been improved.
+      - Updated Baron immediately about the updates on the external partnerships.
+        I prioritize alignment with Baron to make sure he doesn't expend too much
+        effort in more risky or energy- or time-expensive activities.
+  - id: 30eccd1f-d4fe-500e-b666-b3f8a07caa43
+    datetime: 2023-07-27
+    done_yesterday: |
+      -None
+    doing_today: |
+      - Improved Tome.gg primary website user experience in navigating services,
+        pricing. Huge overhaul of the existing website.
+      - Spoke as a speaker at Microsoft Philippines to talk about mentorship 
+        and best practices as a mentor and an apprentice.
+      - Apprentice; Will
+        - Will was able to attend the Microsoft Philippines event.
+  - id: 657641be-9395-5b12-9d31-1d185636e283
+    datetime: 2023-07-28
+    done_yesterday: |
+      -None
+    doing_today: |
+      - Mentorship session with Rick.
+      - Discussions with Baron
+        - Drafted a timeline of the half-month that Baron has worked with me already.
+        - Had an alignment session on expectations as operations manager for Tome.gg. 
+          Baron provided me a safe space to discuss challenges that I'm experiencing 
+          as a new founder.
+        - We chose to set up a near-peer learning schedule so that we can 
+          regularly align as teammates, share notes, and grow together.
+        
+  - id: 9ec5c94c-ad0d-5a75-9534-a765d98e4fa1
+    datetime: 2023-07-31
+    done_yesterday: |
+      - None
+    doing_today: |
+      - Joined Dream Bigger Summit 2023, and met with faith-driven entrepreneurs
+        and other educators in Metro Manila.
+      - Connected with a variety of different people, and am currently writing down
+        their contact details to connect with them tomorrow.
+      - Met Grace from Edukasyon.ph whose website I'll review and provide a UX 
+          feedback on, as well as some thoughts on their offers.
+  - id: 9ec5c94c-ad0d-5a75-9534-a765d98e4fa1
+    datetime: 2023-08-01
+    done_yesterday: |
+      - Joined Dream Bigger Summit 2023; met a lot of different people.
+    doing_today: |
+      - Apprentice overview backlog grooming (next steps, schedules)
+      - Reviewing Baron's work on the onboarding experience for apprentices
+      - Reached out to Seaver for a meeting tomorrow to discuss overlaps of interest
+        between Array.com.ph and Tome.gg.
