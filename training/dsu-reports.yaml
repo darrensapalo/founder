@@ -915,3 +915,50 @@ content:
       - Reviewing Baron's work on the onboarding experience for apprentices
       - Reached out to Seaver for a meeting tomorrow to discuss overlaps of interest
         between Array.com.ph and Tome.gg.
+  - id: 70bd2be6-8a46-5b79-8de0-0ff518d7201f
+    datetime: 2023-08-02
+    done_yesterday: |
+      - Tome.gg backlog grooming, work organization
+      - Scheduling calls with Seaver
+    doing_today: |
+      - 8:00 to 9:00AM alignment meeting with Baron re: content creation.
+      - 9:30 to 10:30AM D4D (Discovery & Direction Deep Dive) session with Jeno Rigor.
+      - 2:00 to 3:00PM mentorship session with Annika on practicing writing and communications.
+      - 3:15 to 3:45PM check in session with Will.
+    remarks: |
+      - 11:00 to 12:00AM flatmate exploration call for San Francisco
+      - 5:45 to 8:30PM catch up with Karlo re: faith driven entrepreneurship and other topics
+  - id: 5cded7fe-eb1b-5510-bfa7-372cd8cc3b23
+    datetime: 2023-08-03
+    done_yesterday: |
+      - A lot of meetings with internal teammates and apprentices
+    doing_today: | 
+      - Morning
+        - Meeting with Nel, management consultant to ask about business, 
+          his thoughts on my pricing strategy, discerning partners, and 
+          understanding the big picture of investor-founder relationships
+      - Afternoon
+         - Coaching session with Will
+  - id: 1888adb5-2c3a-512a-91d5-ae8c4d8f3837
+    datetime: 2023-08-16
+    done_yesterday: |
+      - Flight preparations. The actual flight.
+    doing_today: |
+      - Arrived in Los Angeles, and moving to Berkeley and San Francisco soon.
+  - id: adf5939a-78a1-53fc-a7c3-3db7cb6ef791
+    datetime: 2023-08-23
+    done_yesterday: |
+      - Adjusting to Berkeley.
+    doing_today: |
+      - Attended Berkeley's tech and innovation summit centered on AI, blockchain,
+        and the future of tech.
+      - Met with schoolmates for my MBA.
+  - id: 94eefa40-9456-5b0c-8673-236100207f01
+    datetime: 2023-09-07
+    done_yesterday: |
+      - Networking: spoke as a speaker on tech, AI, ML, and humanities at Tribe of Ones.
+      - Networking: connected with Kym, an educator in Australia that aligned a lot with my values.
+    doing_today: |
+      - Collab: Met up with Seaver and Ragde to talk about the open-source journaling system.
+      - Code: Implementing the listing matching system for https://attune.tome.gg.
+  
