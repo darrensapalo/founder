@@ -1,0 +1,68 @@
+# The following definition enables the Tome.gg librarian to recognize this YAML format
+# as conforming to the 0.1.0 version of the training definition.
+tomegg:
+  type: training
+  version: 0.1.0
+  definition: https://protocol.tome.gg/training/0.1.0
+# Meta information about this report
+meta:
+  format:
+    type: dsu
+    version: 0.1.0
+    definition: https://protocol.tome.gg/formats/dsu/0.1.0
+  goal: 
+    title: Land a SWE management job in San Francisco
+    description: Update existing assets (sapalo.dev, tome.gg) to be reflective
+      of the accomplishments and work that I've done in the past 9 years through
+      an integrated job application + branding strategy. 
+    dimensions:
+      - alias: focus
+        name: focus
+        version: 0.1.0
+        definition: https://protocol.tome.gg/dimensions/focus/0.1.0
+  # Applies the following tags to all of the content, instead of having to write them
+  # down each time.
+  tags: [daily_stand_up]
+content:
+  - id: d27d5698-b0ff-58db-be50-d1501f819107
+    datetime: 2024-05-01
+    remarks: |
+      - As the MBA school year has concluded (with only summer term remaining), I 
+        decided to focus my efforts in my job search here in San Francisco. I've 
+        decided on a set of criteria for my job search and have collected potential
+        job opportunities to pursue.
+      - After meeting with Racquel, I was able to reflect on a couple of learnings
+        when it comes to networking remotely. It's important to keep in mind people
+        and what they work on, so that you can tell stories about people and what 
+        they do.
+    doing_today: |
+      - Assess how many job applications I can feasibly do, so that I know the
+        resource constraints of my search (i.e. how many jobs can I apply for?
+        how many interviews can I do? When should I make a decision?)
+      - Update at least one blog post from sapalo.dev (probably the RapidPass one)
+      - Come up with a project plan for the job applications.
+    done_yesterday: |
+      - Yesterday (and the day prior), I focused on working on a pet project for
+        TheGamingClassroom in building tooling that analyzes a DotA 2 player's
+        combat performance. This needs to be deferred for later- not performed
+        full time. I can probably explore this on weekends or something.
+  - id: e4b35eab-912d-5c84-b488-a608481ffc3b
+    datetime: 2024-05-02
+    remarks: |
+      Some information
+    doing_today: |
+     - Chat with Vins on TGC Game Replay Analysis service
+    done_yesterday: |
+     - Networking meetings
+     - Participated in ED3DAO Wisdom Council
+  - id: c325bf92-b10f-52e0-a979-35bd71a814d3
+    datetime: 2024-05-13
+    doing_today: |
+      - Had online classes for AI in investment management
+      - Mentored a junior developer trying to get into data science
+      - Organized resources for coaching and mentoring platform
+      - Took a break from the job search
+      - Consulting a DotA 2 coach on their coaching market for the Game Replay Analysis service
+    done_yesterday: |
+      - Preparations for the first class this summer break
+      - Preparations for Ed3 DAO's Wisdom Council meeting

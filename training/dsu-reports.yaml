@@ -961,4 +961,10 @@ content:
     doing_today: |
       - Collab: Met up with Seaver and Ragde to talk about the open-source journaling system.
       - Code: Implementing the listing matching system for https://attune.tome.gg.
-  
+  - id: 9b558a5f-6527-549f-a11b-f5e4f53fe107
+    datetime: 2024-03-27
+    done_yesterday: |
+      - Team management for our Future of Work & AI class, also our Global Business Strategy class.
+    doing_today: |
+      - Finalizing our presentation for Global Business Strategy.
+      - Team meeting after class (1-4PM).
