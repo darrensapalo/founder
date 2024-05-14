@@ -12,7 +12,7 @@ jobs:
       
       - name: Install Tome Librarian CLI
         run: |
-          curl -sL https://github.com/tome-gg/librarian/releases/download/0.1.0/tome-linux-amd64 -o tome
+          curl -sL https://github.com/tome-gg/librarian/releases/download/0.3.1/tome-linux-amd64 -o tome
           chmod +x tome
           sudo mv tome /usr/local/bin/tome
 
