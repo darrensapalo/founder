@@ -1,0 +1,55 @@
+# The following definition enables the Tome.gg librarian to recognize this YAML format
+# as conforming to the 0.1.0 version of the training definition.
+tomegg:
+  type: training
+  version: 0.1.0
+  definition: https://protocol.tome.gg/training/0.1.0
+# Meta information about this report
+meta:
+  format:
+    type: dsu
+    version: 0.1.0
+    definition: https://protocol.tome.gg/formats/dsu/0.1.0
+  goal: 
+    title: Get into Anthropic
+    description: |
+       Three key aspects to focus on which are (a) experience and durability 
+       in building applications that rapidly scale; (b) writing your own seminal
+       work; (c) an iterative and measured approach to experimentation
+    dimensions:
+      - alias: focus
+        name: focus
+        version: 0.1.0
+        definition: https://protocol.tome.gg/dimensions/focus/0.1.0
+  # Applies the following tags to all of the content, instead of having to write them
+  # down each time.
+  tags: [daily_stand_up]
+content:
+  - id: d199beb3-b816-5ea5-b206-8c402daccb47
+    datetime: 2024-07-18
+    remarks: |
+      - Project 2 involves demonstrating my experience with service oriented
+        architecture, containerization, familarity with AWS, and CI/CD on 
+        GitHub actions. Although I wasn't part of the devops team before, 
+        I have learned these tools as I needed them for Tome.gg.
+      - Project 3 involves demonstrating my understanding of feature flags and
+        experimentation, as well as my technical experience with Google Analytics.
+        With this, I'll showcase my experience with what I learned from my 
+        Operations Analytics class from Hult, as well as data analysis on the
+        synthetic data that could possibly be collected from the HFI system.
+    doing_today: |
+      - Spoke with a friend who advised me on what to focus on for the kinds of
+        people they pick up and attract at Anthropic.
+      - 95% finished with the UI design revisions I wanted.
+      - Focused on implementing the core logic of the submitting the instance 
+        evaluations by annotators.
+      - Configured, keyboard shortcuts annotation experience a lot smoother.
+      - Finished login and log out features.
+      - Remaining work for Project 1 (HFI, React) is Authentication Guard 
+        and some minor component unit-testing. 
+      - Today, I'm targeting to complete Project 1, as well as write a blog 
+        post about my experience.
+    done_yesterday: |
+      - Started building a human feedback interface for fine-tuning 
+        https://github.com/allenai/open-instruct/pull/195
+      - 80% finished with the UI design revisions I wanted to apply.
