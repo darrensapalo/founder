@@ -8,8 +8,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Code
-        uses: actions/checkout@v2
-      
+        uses: actions/checkout@v4
+
       - name: Install Tome Librarian CLI
         run: |
           curl -sL https://github.com/tome-gg/librarian/releases/download/0.3.1/tome-linux-amd64 -o tome
@@ -17,20 +17,17 @@ jobs:
           sudo mv tome /usr/local/bin/tome
 
       - name: Run Tome Librarian CLI
+        id: run-tome-librarian-cli
         run: tome validate .
 
       - name: Set Status
         if: ${{ success() }}
-        uses: marocchino/sticky-pull-request-comment@v2.2.0
+        uses: marocchino/sticky-pull-request-comment@v2
         with:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           message: "Valid Tome.gg repository"
-          stick: true
 
       - name: Set Status
         if: ${{ failure() }}
-        uses: marocchino/sticky-pull-request-comment@v2.2.0
+        uses: marocchino/sticky-pull-request-comment@v2
         with:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           message: "Invalid Tome.gg repository: ${{ steps.run-tome-librarian-cli.outputs.stderr }}"
-          stick: true
