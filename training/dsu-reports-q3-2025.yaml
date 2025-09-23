@@ -13,9 +13,9 @@ meta:
   goal:
     title: Continue Founder Journey
     description: |
-       Focus on building sustainable products, developing technical expertise,
-       and establishing thought leadership while maintaining momentum in
-       entrepreneurial growth
+      Focus on building sustainable products, developing technical expertise,
+      and establishing thought leadership while maintaining momentum in
+      entrepreneurial growth
     dimensions:
       - alias: simplicity
         name: Simplicity
@@ -32,8 +32,27 @@ content:
   - id: 155CA198-7084-42F7-BBEE-A5A2FD3CB76F
     datetime: 2025-09-22
     done_yesterday: |
-      Yesterday I was preparing for my work at Lair where I was building for a couple of new features. But because I was blocked on some PRs for review, I began shaping up the work for the next feature that I was building.
+      Last week (Friday), I was preparing for my work at Layer where I am currently tasked to build some new features. 
+      I had some good progress already and have some PRs pending for review, so I began to shape up the work for 
+      the next feature that I was building.
     doing_today: |
-      Today I doubled down on the component that I was working on last week, last Friday, and I received the updated Figma Designs which I then executed reaching to the point of getting a component to be responsive, mobile responsive. The tricky part in what I need to do on the front end is that I'm not simply building a website, I am building a component library or a component within a component library that many developers will be using so accessibility and other aspects of frontend development are important that I'm not so used to yet.
+      Today, I doubled down on the component that I was working on last week. I received the updated Figma Designs 
+      which I then executed reaching to the point of getting a component to be responsive, mobile responsive. 
+      The tricky part of what I need to do on the front end is that I'm not simply building a website, 
+      I am building a component library or a component within a component library that many developers will be 
+      using, so accessibility and other aspects of frontend development are important—areas that I'm not as familiar with yet.
     blockers: |
       PR reviews on some of my work
+  - id: 5A5C8FFE-147D-4A2E-B8D9-770FBCCB8B19
+    datetime: 2025-09-23
+    done_yesterday: |
+      Yesterday (Monday), I updated my website for Tome.gg, as well as simplified the documentation on how to start 
+      your growth journal.
+    doing_today: |
+      Today I'll be working on Layer components that will be focused on our component library. I'll also practice a 
+      bit more fundamentals in financial accounting as well as study the team's ledger system.
+    blockers: |
+      None.
+    notes: |
+      I stayed up late on Monday (unnecessarily) because I was enjoying building for Tome.gg. Not good practice, I know
+      I'm supposed to be prioritizing sleep. I think this was partly due to taking caffeine late in the evening (Coke).
