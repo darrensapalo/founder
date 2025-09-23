@@ -1,0 +1,39 @@
+# The following definition enables the Tome.gg librarian to recognize this YAML format
+# as conforming to the 0.1.0 version of the training definition.
+tomegg:
+  type: training
+  version: 0.1.0
+  definition: https://protocol.tome.gg/training/0.1.0
+# Meta information about this report
+meta:
+  format:
+    type: dsu
+    version: 0.1.0
+    definition: https://protocol.tome.gg/formats/dsu/0.1.0
+  goal:
+    title: Continue Founder Journey
+    description: |
+       Focus on building sustainable products, developing technical expertise,
+       and establishing thought leadership while maintaining momentum in
+       entrepreneurial growth
+    dimensions:
+      - alias: simplicity
+        name: Simplicity
+        description: Building solutions that are simple and elegant
+      - alias: intentionality_tradeoffs
+        name: Intentionality in Engineering Tradeoffs
+        description: Making deliberate and well-reasoned technical decisions
+      - alias: speed_execution
+        name: Speed of Execution
+        description: Delivering results quickly and efficiently
+
+# Content: Daily Stand Up (DSU) reports
+content:
+  - id: 155CA198-7084-42F7-BBEE-A5A2FD3CB76F
+    datetime: 2025-09-22
+    done_yesterday: |
+      Yesterday I was preparing for my work at Lair where I was building for a couple of new features. But because I was blocked on some PRs for review, I began shaping up the work for the next feature that I was building.
+    doing_today: |
+      Today I doubled down on the component that I was working on last week, last Friday, and I received the updated Figma Designs which I then executed reaching to the point of getting a component to be responsive, mobile responsive. The tricky part in what I need to do on the front end is that I'm not simply building a website, I am building a component library or a component within a component library that many developers will be using so accessibility and other aspects of frontend development are important that I'm not so used to yet.
+    blockers: |
+      PR reviews on some of my work

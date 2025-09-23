@@ -31,7 +31,8 @@ content:
       - Project 2 involves demonstrating my experience with service oriented
         architecture, containerization, familarity with AWS, and CI/CD on 
         GitHub actions. Although I wasn't part of the devops team before, 
-        I have learned these tools as I needed them for Tome.gg.
+        I have learned these tools as I needed them for Tome.gg. Here I can
+        demonstrate my experience in distributed software architecture.
       - Project 3 involves demonstrating my understanding of feature flags and
         experimentation, as well as my technical experience with Google Analytics.
         With this, I'll showcase my experience with what I learned from my 
@@ -49,7 +50,17 @@ content:
         and some minor component unit-testing. 
       - Today, I'm targeting to complete Project 1, as well as write a blog 
         post about my experience.
+      - I also updated Ink chatbot to work both on the dev and the production 
+        environments.
     done_yesterday: |
       - Started building a human feedback interface for fine-tuning 
         https://github.com/allenai/open-instruct/pull/195
       - 80% finished with the UI design revisions I wanted to apply.
+  - id: ab97c5c3-64be-50d0-ae3b-6de6cea7ea00
+    datetime: 2024-07-19
+    remarks: |
+      - 
+    doing_today: |
+      - Start fleshing out the ideas for Project 2.
+    done_yesterday: |
+      - Finished Project 1 and blog post.
