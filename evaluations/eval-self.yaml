@@ -503,3 +503,43 @@ evaluations:
         score: 4
         remarks: >
           Organizing my team and my apprentices. Great focus.
+  - id: F179F5FC-CF23-4F6A-B6F9-A6C9D3586ECD
+    measurements:
+      - dimension: focus
+        score: 4
+        remarks: |
+          Absorbing the large amount of new information at my recently joined
+          company presents significant focus challenges. I've mitigated this by
+          writing down questions, sorting them by priority based on my
+          understanding, and asking targeted questions that provide context for
+          better prioritization. This approach minimizes the demands I place on
+          peers and colleagues. The activities requiring the most sustained focus
+          involved shaping up engineering work when taking ownership of completely
+          new features, particularly systems design work. To handle competing
+          priorities and maintain focus, I organize my thoughts and plans into
+          Linear tickets, allowing me to juggle tasks more effectively.
+  - id: 5A5C8FFE-147D-4A2E-B8D9-770FBCCB8B19
+    measurements:
+      - dimension: focus
+        score: 4
+        remarks: |
+          I maintained good separation between work and personal projects during
+          this period. After finishing work early, I had quality space to rest and
+          review my Tome.gg work, which I had not revisited for around 2 years.
+          My focus was strong in maintaining clear boundaries—doing work during
+          work hours and side projects after work hours. However, I unnecessarily
+          stayed up late, which compromised my sleep discipline and prevents a
+          perfect focus score.
+  - id: 155CA198-7084-42F7-BBEE-A5A2FD3CB76F
+    measurements:
+      - dimension: focus
+        score: 3
+        remarks: |
+          Maintaining focus was challenging due to the variety of different things
+          to work on and study at Layer. Shaping up work consistently requires the
+          most focus as it involves directions and strategy decisions. I handle
+          competing priorities by writing down my plans extensively. However, my
+          focus discipline was compromised when I asked Andrew for more work
+          despite already having a clear set of other tasks to complete, such as
+          shaping up segmented financial analysis. This showed poor prioritization
+          and focus on existing commitments.
