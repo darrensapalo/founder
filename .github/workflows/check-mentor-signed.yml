@@ -1,0 +1,102 @@
+name: Mentor commits must be verified
+on:
+    pull_request_target:
+        types: [opened, synchronize, reopened, ready_for_review]
+permissions:
+    contents: read
+    pull-requests: read
+jobs:
+    verify-mentor-commits:
+        runs-on: ubuntu-latest
+        steps:
+            - name: Load mentors.yml from base repo
+              id: mentors
+              uses: actions/github-script@v7
+              with:
+                  script: |
+                      const path = '.github/mentors.yml';
+                      const {owner, repo} = context.repo;
+                      const pr = context.payload.pull_request;
+                      // Read mentors.yml from the BASE branch to avoid PR tampering
+                      const {data:file} = await github.rest.repos.getContent({
+                        owner, repo, path, ref: pr.base.sha
+                      });
+                      const content = Buffer.from(file.content, file.encoding).toString('utf8');
+                      return {raw: content};
+            - name: Parse mentors.yml
+              id: parse
+              run: |
+                  python - <<'PY'
+                  import sys, yaml, json, os
+                  y = yaml.safe_load(os.environ['MENTORS_YML'])
+                  print(json.dumps({
+                    "mentors": set(y.get("mentors", [])),
+                    "allow": set(y.get("allowlist", []))
+                  }))
+                  PY
+              env:
+                  MENTORS_YML: ${{ steps.mentors.outputs.result.raw }}
+            - name: Check commits for unverified mentor signatures
+              uses: actions/github-script@v7
+              env:
+                  PARSED: ${{ steps.parse.outputs.stdout }}
+              with:
+                  script: |
+                      const parsed = JSON.parse(process.env.PARSED);
+                      const mentors = new Set(parsed.mentors);
+                      const allow = new Set(parsed.allow);
+
+                      const pr = context.payload.pull_request;
+                      const {owner, repo} = context.repo;
+
+                      // List commits in the PR
+                      const commits = await github.paginate(
+                        github.rest.pulls.listCommits,
+                        { owner, repo, pull_number: pr.number, per_page: 100 }
+                      );
+
+                      const offenders = [];
+
+                      for (const c of commits) {
+                        const authorLogin = c.author?.login || null;     // GitHub user mapped from email
+                        const committerLogin = c.committer?.login || null;
+                        const isMentorAuth = authorLogin && mentors.has(authorLogin);
+                        const isMentorComm = committerLogin && mentors.has(committerLogin);
+
+                        // Skip bots/tools
+                        const skip =
+                          (authorLogin && allow.has(authorLogin)) ||
+                          (committerLogin && allow.has(committerLogin));
+
+                        if (!(isMentorAuth || isMentorComm) || skip) continue;
+
+                        // Get full commit to read verification status
+                        const {data: full} = await github.rest.repos.getCommit({
+                          owner, repo, ref: c.sha
+                        });
+
+                        const v = full.commit.verification;
+                        const verified = !!v?.verified;
+
+                        if (!verified) {
+                          offenders.push({
+                            sha: c.sha.substring(0,7),
+                            message: full.commit.message.split('\n')[0],
+                            author: authorLogin,
+                            committer: committerLogin,
+                            reason: v?.reason || 'unverified'
+                          });
+                        }
+                      }
+
+                      if (offenders.length) {
+                        let table = offenders.map(o =>
+                          `- ${o.sha} (${o.author||'?'}/${o.committer||'?'}) — ${o.reason}: ${o.message}`
+                        ).join('\n');
+                        core.setFailed(
+                          `Unverified mentor commits detected:\n${table}\n\n` +
+                          `Mentor commits must be GPG/SSH/X.509 verified.`
+                        );
+                      } else {
+                        core.notice('All mentor commits are verified or none present.');
+                      }

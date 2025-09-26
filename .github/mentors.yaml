@@ -1,0 +1,8 @@
+# GitHub usernames, not emails
+mentors:
+  - alice-senior
+  - bob-mentor
+# optional allowlist for bots/tools
+allowlist:
+  - dependabot[bot]
+  - github-actions[bot]
