@@ -25,6 +25,10 @@ Interactive script that prompts for daily stand-up information and appends to tr
 
 **Note for Claude Code**: When creating new DSU entries, study the structure from `record.fish` to understand the required format, but collect the information manually from the user and add entries directly to the current quarterly file (`training/dsu-reports-q3-2025.yaml`).
 
+**Content Guidelines**: When creating or editing DSU entries, strip away work-related specifics and instead focus on self-reflection and growth as a software engineer. Emphasize learning, skill development, and personal insights rather than company-specific details or project names.
+
+**YAML Formatting**: All multi-line text fields using YAML literal block scalar format (|) must be formatted as proper paragraphs with word wrapping at 80 characters. Do not format text as bullet points or artificial sentence breaks - maintain natural paragraph flow when the text is rendered.
+
 ### Validation
 ```bash
 tome validate .
