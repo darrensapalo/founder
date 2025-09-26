@@ -23,6 +23,8 @@ This is a personal growth journal repository structured using the Tome.gg Librar
 ```
 Interactive script that prompts for daily stand-up information and appends to training/dsu-reports.yaml.
 
+**Note for Claude Code**: When creating new DSU entries, study the structure from `record.fish` to understand the required format, but collect the information manually from the user and add entries directly to the current quarterly file (`training/dsu-reports-q3-2025.yaml`).
+
 ### Validation
 ```bash
 tome validate .
