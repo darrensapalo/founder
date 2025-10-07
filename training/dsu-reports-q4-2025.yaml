@@ -1,0 +1,55 @@
+# The following definition enables the Tome.gg librarian to recognize this YAML format
+# as conforming to the 0.1.0 version of the training definition.
+tomegg:
+  type: training
+  version: 0.1.0
+  definition: https://protocol.tome.gg/training/0.1.0
+# Meta information about this report
+meta:
+  format:
+    type: dsu
+    version: 0.1.0
+    definition: https://protocol.tome.gg/formats/dsu/0.1.0
+  goal:
+    title: Continue Founder Journey
+    description: |
+      Focus on building sustainable products, developing technical expertise,
+      and establishing thought leadership while maintaining momentum in
+      entrepreneurial growth
+    dimensions:
+      - alias: simplicity
+        name: Simplicity
+        description: Building solutions that are simple and elegant
+      - alias: intentionality_tradeoffs
+        name: Intentionality in Engineering Tradeoffs
+        description: Making deliberate and well-reasoned technical decisions
+      - alias: speed_execution
+        name: Speed of Execution
+        description: Delivering results quickly and efficiently
+      - alias: small_pull_requests
+        name: Small Pull Requests
+        description: Breaking down large pull requests into smaller, more manageable chunks
+
+# Content: Daily Stand Up (DSU) reports
+content:
+  - id: B94080E3-7D25-4AE2-B9E7-C154268091E3
+    datetime: 2025-10-06
+    done_yesterday: |
+      On Friday (October 3), I completed building my pull requests for new backend
+      APIs. However, I identified a significant process issue: my pull requests
+      have become too large, with some reaching 2,000-3,000 lines of code
+      across 30-40+ files. This creates substantial review burden for colleagues
+      due to high context switching costs. I've committed to breaking down my
+      large pull request into six smaller, more manageable pull requests of
+      300-500 lines each, touching only 3-4 files per PR to reduce cognitive
+      load for reviewers.
+    doing_today: |
+      Today I successfully created two pull requests that are under 500 lines
+      of code and touch fewer than four files each, actively demonstrating the
+      smaller PR practice I committed to. This shows I'm effectively
+      implementing careful code organization to ensure each PR maintains logical
+      cohesion while significantly reducing the context switching burden for my
+      teammates.
+    blockers: |
+      I have two pull requests currently awaiting colleague review, but this
+      isn't blocking my progress on other work.

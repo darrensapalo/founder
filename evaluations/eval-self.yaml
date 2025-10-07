@@ -15,13 +15,34 @@ meta:
   dimensions:
     - alias: focus
       name: focus
+      label: focus
       version: 0.1.0
       definition: https://protocol.tome.gg/dimensions/focus/0.1.0
+    - alias: simplicity
+      name: simplicity
+      label: Simplicity
+      version: 0.1.0
+      definition: https://protocol.tome.gg/dimensions/simplicity/0.1.0
+    - alias: intentionality_tradeoffs
+      name: intentionality_tradeoffs
+      label: Intentionality in Engineering Tradeoffs
+      version: 0.1.0
+      definition: https://protocol.tome.gg/dimensions/intentionality_tradeoffs/0.1.0
+    - alias: speed_execution
+      name: speed_execution
+      label: Speed of Execution
+      version: 0.1.0
+      definition: https://protocol.tome.gg/dimensions/speed_execution/0.1.0
+    - alias: small_pull_requests
+      name: small_pull_requests
+      label: Small Pull Requests
+      version: 0.1.0
+      definition: https://protocol.tome.gg/dimensions/small_pull_requests/0.1.0
 
-# 
+#
 # Evaluation guidelines
 #   1 - INTRODCUTION - Completely unfamiliar with the concept; still introductory phase
-#   2 - FAMILIAR - Already familiar and have read up on the concept; not yet experimented 
+#   2 - FAMILIAR - Already familiar and have read up on the concept; not yet experimented
 #          with/allocated time for
 #          Prioritization: understanding things.
 #   3 - TRAINING - Allocated time for practicing the concept. Consciously reminding
@@ -36,7 +57,7 @@ meta:
 
 evaluations:
   - id: 31948a73-38bc-5a8d-9ba2-febf4bcb81d9
-    measurements: 
+    measurements:
       - dimension: focus
         score: 3
         remarks: >
@@ -83,7 +104,7 @@ evaluations:
           a couple of books that are related to my business, and wrote down notes
           on how I can leverage the concepts around them. Definitely a good practice.
   - id: 891842c7-aa8b-5e11-a83e-ec56a5351e80
-    measurements: 
+    measurements:
       - dimension: focus
         score: 2
         remarks: >
@@ -104,11 +125,11 @@ evaluations:
       - dimension: focus
         score: 3
   - id: 7e8bcb24-4304-5584-9d33-0f61c348df77
-    measurements: 
+    measurements:
       - dimension: focus
         score: 3
   - id: 1b35a564-542c-5f35-87e2-d9c8286f25f5
-    measurements: 
+    measurements:
       - dimension: focus
         score: 2
   - id: 1b35a564-542c-5f35-87e2-d9c8286f25f5
@@ -207,19 +228,19 @@ evaluations:
           This is good. Updating the sapalo.dev blog as better instructional 
           material will help with internal content production used on map.tome.gg.
   - id: 6b2f9cea-9017-5a46-9e2d-6bc70a25ce92
-    measurements: 
+    measurements:
       - dimension: focus
         score: 3
         remarks: >
           Balancing priorities with family business was the correct move here.
   - id: 2600404f-a289-59c7-9c88-27b307933611
-    measurements: 
+    measurements:
       - dimension: focus
         score: 3
-        remarks: > 
+        remarks: >
           Weekends are intended for rest.
   - id: a94dc869-507f-5488-b400-ce4c492df9ab
-    measurements: 
+    measurements:
       - dimension: focus
         score: 2
         remarks: >
@@ -228,92 +249,92 @@ evaluations:
           take up by qualifying how broad their audience reach is. That way I can
           say no to unproductive activities that don't meet my metrics.
   - id: bd1609db-3551-5c74-a9e8-3d8ae6257b6d
-    measurements: 
+    measurements:
       - dimension: focus
         score: 3
         remarks: >
           Weekends are intended for rest.
   - id: d1aab151-26ea-5435-913f-96e265bd00a7
-    measurements: 
+    measurements:
       - dimension: focus
         score: 3
         remarks: >
           Focusing on my IP studies was the correct thing to do here. But I still
           made time to reflect on KPIs for Tome.gg, thus hyper focusing on my goal.
   - id: 6a9d5103-f1e6-5d4a-a4ce-4c96a168c937
-    measurements: 
+    measurements:
       - dimension: focus
         score: 3
         remarks: >
           First mentorship session in a long time. This was a good start.
   - id: e0e0bc65-ad44-547d-8255-7ec9bac6a585
-    measurements: 
+    measurements:
       - dimension: focus
         score: 3
         remarks: >
           Focused on my IP class exam. This was the right call.
   - id: cf7560e6-d74f-5a56-b04a-5125dfe056ff
-    measurements: 
+    measurements:
       - dimension: focus
         score: 3
         remarks: >
           Good research into ratings, matchmaking, and peer-to-peer learning.
-  
+
   - id: 0586eb3b-5703-5d62-8bae-bf3357e0f3c6
-    measurements: 
+    measurements:
       - dimension: focus
         score: 3
         remarks: >
           Writing on the whitepaper helps you focus further.
   - id: a333183d-770c-518d-9012-cb4ec2b57d6d
-    measurements: 
+    measurements:
       - dimension: focus
         score: 3
         remarks: >
           Gaining an apprentice moves towards the goal.
   - id: 3ac3a404-5ecb-5ce0-940c-6a7f793ce991
-    measurements: 
+    measurements:
       - dimension: focus
         score: 3
         remarks: >
           Performing mentorship moves towards the goal.
   - id: c3a9858e-5b7c-5ca2-a71d-b601d7cfdc29
-    measurements: 
+    measurements:
       - dimension: focus
         score: 3
         remarks: >
           Weekends are intended for rest.
   - id: 92d960d2-65e9-585b-b087-ba67dffedefe
-    measurements: 
+    measurements:
       - dimension: focus
         score: 3
         remarks: >
           Writing on the whitepaper helps focus.
   - id: 67a6930c-028c-5b96-94c1-e8f9c6eca27e
-    measurements: 
+    measurements:
       - dimension: focus
         score: 3
         remarks: >
           Networking expands the reach for tome.gg, towards the goals.
   - id: 17df8ce5-a993-5fc1-a2ad-eb95c203b17c
-    measurements: 
+    measurements:
       - dimension: focus
         score: 3
   - id: 72a43511-7b93-50dc-9e1e-0729d13775cc
-    measurements: 
+    measurements:
       - dimension: focus
         score: 3
         remarks: >
           Improving onboarding process by improving the Tome CLI tool.
   - id: 064036f2-0121-56b2-8c1c-a5d4a7a033d5
-    measurements: 
+    measurements:
       - dimension: focus
         score: 3
         remarks: >
           Improving the map product contributes to better studying/referencing
           by students, and also improves Tome.gg brand.
   - id: 755fe086-622d-5efe-8802-a42fe99069e5
-    measurements: 
+    measurements:
       - dimension: focus
         score: 4
         remarks: >
@@ -321,7 +342,7 @@ evaluations:
           evaluate my focus on launching my product/services will help me read
           my situation better.
   - id: 148fa588-42fd-5c65-9f31-d8707d821a46
-    measurements: 
+    measurements:
       - dimension: focus
         score: 4
         remarks: >
@@ -543,3 +564,46 @@ evaluations:
           despite already having a clear set of other tasks to complete, such as
           shaping up segmented financial analysis. This showed poor prioritization
           and focus on existing commitments.
+  - id: B94080E3-7D25-4AE2-B9E7-C154268091E3
+    measurements:
+      - dimension: focus
+        score: 5
+        remarks: |
+          I was quite focused on ensuring I don't create large pull requests that
+          are difficult for peers to review. What I thought would be more
+          difficult was actually straightforward when I started deciding how to
+          split the large pull request into smaller pieces. This demonstrates
+          strong sustained attention on the improvement objective without
+          distraction.
+      - dimension: simplicity
+        score: 5
+        remarks: |
+          Breaking down the PRs was much simpler and easier to make progress on.
+          The PRs I created were primarily about writing React hooks that
+          interacted with backend APIs while enforcing schemas, following good
+          practices already enforced in the frontend application. This approach
+          maintained logical simplicity and elegance.
+      - dimension: intentionality_tradeoffs
+        score: 5
+        remarks: |
+          I intentionally didn't overthink the implementation and instead
+          leveraged existing patterns in the frontend application. I used the
+          standard StaleWhileRevalidate React framework for querying and
+          leveraged the pagination mechanism that the backend API already had.
+          Kept it simple by following best practices of the existing codebase,
+          demonstrating deliberate and well-reasoned technical decisions.
+      - dimension: speed_execution
+        score: 3
+        remarks: |
+          I completed two pull requests today: one investigating backend
+          performance measurements for upload issues, and another for frontend
+          types, schemas, and API integration. While productive, I feel this
+          could be faster with more AI harnesses, which I'm investing time in
+          building so future development can be significantly faster.
+      - dimension: small_pull_requests
+        score: 5
+        remarks: |
+          I definitely practiced this skill today by creating two small PRs under
+          500 lines each, touching fewer than 4 files. This demonstrates mastery
+          of breaking down large pull requests into smaller, more manageable
+          chunks that reduce cognitive load for reviewers.
