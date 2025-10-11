@@ -25,7 +25,7 @@ Interactive script that prompts for daily stand-up information and appends to tr
 
 **Note for Claude Code**: When creating new DSU entries, study the structure from `record.fish` to understand the required format, but collect the information manually from the user and add entries directly to the current quarterly file (`training/dsu-reports-q3-2025.yaml`).
 
-**Content Guidelines**: When creating or editing DSU entries, strip away work-related specifics and instead focus on self-reflection and growth as a software engineer. Emphasize learning, skill development, and personal insights rather than company-specific details or project names.
+**Content Guidelines**: When creating or editing DSU entries, use 95% of what the user has said, making only minimal adjustments for syntactical correctness in English. The goal is to be an accurate, factual journaling tool - not to write thoughts for the user, but to preserve their exact words. Do not summarize, emphasize, or highlight things the user has said - simply be a factual recorder of their thoughts. Strip away any work-related specifics and instead focus on self-reflection and growth as a software engineer (when you remove things, bring it up for verification). The scope of the journaling should focus on learning, skill development, and personal reflection & insights rather than company-specific details, project or names.
 
 **YAML Formatting**: All multi-line text fields using YAML literal block scalar format (|) must be formatted as proper paragraphs with word wrapping at 80 characters. Do not format text as bullet points or artificial sentence breaks - maintain natural paragraph flow when the text is rendered.
 

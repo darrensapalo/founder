@@ -607,3 +607,50 @@ evaluations:
           500 lines each, touching fewer than 4 files. This demonstrates mastery
           of breaking down large pull requests into smaller, more manageable
           chunks that reduce cognitive load for reviewers.
+  - id: D8609BCF-9F21-43B0-B4D5-6AF32DA4E6C0
+    measurements:
+      - dimension: focus
+        score: 4
+        remarks: |
+          I was mostly focusing on the component I was building involved with
+          OAuth but I was exploring other works in the morning.
+  - id: 4BF4C561-23A3-4FBB-928D-D83F3A89A52E
+    measurements:
+      - dimension: focus
+        score: 4
+        remarks: |
+          I was extremely focused. Something that did help me grind out a lot
+          more work was having a cappuccino in the afternoon. Honestly, I feel
+          like the cappuccino would have done better work if I had drunk it
+          earlier in the day. And I would probably not screwed up my sleep if I
+          had the coffee earlier rather than in the afternoon. I maintained
+          focus during the PR review activities by just really being focused on
+          the outcome that I want, which is a fast turnaround PR review from my
+          colleagues. The clear end of week goal helped me focus on which PRs I
+          needed to get across the finish line. It helped me distinguish which
+          things were high priority versus low priority, nice to have versus
+          necessary. The work that I did in the evening wasn't related to the
+          end of week goals that I had, but simply my 30 day goals of being
+          able to do some sentry or error investigations and fixes.
+  - id: 0EA25CE9-7140-471F-A9EC-6B6FF965DC63
+    measurements:
+      - dimension: focus
+        score: 5
+        remarks: |
+          This was me committing to practicing, beginning to commit to practice
+          smaller pull requests, which I feel like I definitely locked in and
+          practiced because I wanted to get that practice and the best practice
+          and habit locked in very quickly. The challenging part is as a
+          software engineer, I want to see my results come in end-to-end and I
+          try that. I touch a lot of different things when I build a complete
+          feature end-to-end and the PR process makes me feel like I'm slowing
+          down, but it's about jogging at the pace of everybody in the team so
+          that I can absorb and learn from the best practices that they already
+          have. If learning wasn't important to me, then I wouldn't care, but
+          because I want to learn and I want to grow and absorb practices that
+          my fellow colleagues already do, this is the thing that I need to do.
+          I need to slow down. I need to make my changes more focused and
+          receive feedback and regularly practice them. This is justifying why I
+          need to slow down and experience this feeling of being blocked. This
+          is normal. This is fine. We just need to be patient as we grind
+          along.

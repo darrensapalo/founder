@@ -99,3 +99,22 @@ content:
       prioritized when choosing which teams, startups, or work environments to
       join. The caliber of people you work alongside significantly impacts your
       own growth trajectory and professional development.
+  - id: D8609BCF-9F21-43B0-B4D5-6AF32DA4E6C0
+    datetime: 2025-10-11
+    done_yesterday: |
+      Yesterday was Friday. What I focused on was being able to do the end to
+      end integration for one of the components that I was building. But
+      surprisingly, I had some misunderstanding about the OAuth implementation
+      and what functionally we needed to be able to integrate with the third
+      party component that we were building. So that took me some time to
+      experiment with and understand. And then at the end of the day, I was
+      able to push out the pull request that was reviewed and merged so that we
+      can store the access tokens generated and refresh tokens generated on our
+      backend system. This will allow our systems to integrate with those third
+      party software and I learned more about access tokens and refresh tokens
+      throughout the process.
+    doing_today: |
+      Today I'm not doing anything because it's Saturday. I'm just reflecting
+      on yesterday's daily standup report. I don't have any blockers and other
+      things that I'm focusing on doing today is just doing some reflections
+      about my personal and professional history and unwinding and resting.
