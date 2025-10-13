@@ -118,3 +118,23 @@ content:
       on yesterday's daily standup report. I don't have any blockers and other
       things that I'm focusing on doing today is just doing some reflections
       about my personal and professional history and unwinding and resting.
+  - id: BF612496-4C4A-4DCA-B719-943860B6A65A
+    datetime: 2025-10-12
+    done_yesterday: |
+      Just general reflections about my progress for the past week, and how I
+      could have improved. Parts of it was balancing my growth in terms of the
+      work output I needed to deliver (new features, components, APIs) as well
+      as learning the overall system (Sentry exception debugging, data model
+      studying etc).
+    doing_today: |
+      Today is to prioritize rest, weekly resets, spend time with friends. Good
+      downtime spent. In terms of reflecting on the week ahead, my goal is to
+      deliver the book a call component by the end of the week (and onboarding
+      integration) and get finish my work on investigating some stable account
+      issues.
+    blockers: |
+      No- I just need to spend my time learning and documenting my processes.
+      That will accelerate my learning.
+    remarks: |
+      I bought a guitar, which is great. This is an awesome creative outlet for
+      me.
