@@ -138,3 +138,49 @@ content:
     remarks: |
       I bought a guitar, which is great. This is an awesome creative outlet for
       me.
+  - id: E0FCE347-BCE7-49C5-AA9C-1495C1BA3ED0
+    datetime: 2025-10-13
+    done_yesterday: |
+      Yesterday, Sunday, I basically rested and spent my downtime.
+    doing_today: |
+      Today, Monday, I spent planning out my end-of-week objectives and what I
+      wanted to accomplish. I wanted to make sure that I closed off this feature
+      I was building, which cut through the whole application. It involved the
+      back end and the front end and involved two separate UI components that I
+      was building. I decided for myself on Monday morning to make sure that I
+      meet a goal for the end-of-Monday and the end-of-Tuesday. At the end of
+      Monday, I did not get to completely merge in the pull request that I
+      wanted, but I did get my first round of reviews through collaboration with
+      my team. And that made me feel good. I didn't have any blockers and I was
+      able to move forward.
+  - id: E769C3C4-A408-4B06-BA17-BFA017993774
+    datetime: 2025-10-14
+    done_yesterday: |
+      Yesterday, Monday, I ran through the first round of revisions for the
+      first of two components that I was building at work. I was able to get
+      that mostly across and I had some minor revisions that I needed to work on
+      today, which I was able to do.
+    doing_today: |
+      My goal today is to be able to close off that one of two onboarding
+      components that I was building and get started with integration for the
+      second UI component that I'm building. My end goal today is basically get
+      these implementations done up to the level of integration and get it to
+      the point where it's ready for review with my colleagues. Thankfully, it's
+      at the end of the day now and I was able to complete the integration
+      implementation for the second component and it's now ready for review or
+      at least the first pass review with my colleagues. The next thing that I'm
+      planning to do is write out a one pager for some plan of how we intend to
+      do AI on our platform specifically in accounting and bookkeeping, carving
+      out some initial plans and how we can accelerate the work that we're
+      doing.
+    remarks: |
+      I have been continuously practicing my small pull requests. Some feedback
+      that I've received recently in my pull requests is to err on the side of
+      leveraging existing libraries in npm rather than rebuilding things from
+      scratch. I shouldn't be over optimizing in terms of keeping things simple
+      and just having a simple function because I don't want to import too much
+      from third party services or packages. Because third party packages can
+      be gzipped and made smaller and that wouldn't be too much of a problem. So
+      I'm taking that feedback in and I'm reflecting on it. I should optimize
+      more for correctness, completeness and maintainability rather than package
+      weight or package lightness or not having too many dependencies.
