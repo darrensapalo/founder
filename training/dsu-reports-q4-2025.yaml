@@ -169,10 +169,9 @@ content:
       at the end of the day now and I was able to complete the integration
       implementation for the second component and it's now ready for review or
       at least the first pass review with my colleagues. The next thing that I'm
-      planning to do is write out a one pager for some plan of how we intend to
-      do AI on our platform specifically in accounting and bookkeeping, carving
-      out some initial plans and how we can accelerate the work that we're
-      doing.
+      planning to do is write out a one pager for the next set of work I'm targeting
+      to accomplish. This will force me to carefully articulate my objectives given
+      a specific timeline.
     remarks: |
       I have been continuously practicing my small pull requests. Some feedback
       that I've received recently in my pull requests is to err on the side of
